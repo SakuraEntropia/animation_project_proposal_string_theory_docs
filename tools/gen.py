@@ -166,9 +166,16 @@ W('01_宇宙观与公理.md', hdr(
 
 {top(2)}
 
-⟦CONTRADICTED⟧ **内部冲突 X1／X2。** 本节称"世界的地球是一颗黑矮星"，
-而 §13.1 称"恒星在这一纪元中从未存在过"。黑矮星**就是**恒星残骸，后者否定前者。
-同时本节称"简并纪"，§13.1 称"黑洞纪元"，二者互斥。
+✅ **原内部冲突 X1／X2 已解除（作者裁定 2026-09-11）。**
+
+本节称"世界的地球是一颗黑矮星"；旧版 §13.1 曾称"恒星在这一纪元中从未存在过"。
+**作者裁定：恒星确实存在过，然后全部死掉了**——约在 **十万亿年前**。
+黑矮星**就是**恒星残骸，因此本节与 §13.1 **互相支持**，不构成冲突。
+
+`[CANON]` **这个文明从未见过活着的恒星；他们概念里的"恒星"是推算出来的。**
+「不存在」应读作「**现在不存在（已灭绝）**」。
+
+同时：旧称"简并纪"与"黑洞纪元"互斥的问题，已由 `PIN-14` 统一为**烬纪**而消解。
 
 ---
 
@@ -768,7 +775,8 @@ Axiom P11 下的系统**不存在非零平衡点**：只要 `α, β > 0`，
 这就是为什么它必须由**意识**去取，而不是由时间演化产生。
 
 > ✅ **已解除（作者裁定 2026-09-11）。** 本节曾标为 ⟦CONTRADICTED⟧
-> （「宇宙处于黑洞纪元，恒星从未存在过」vs「世界是黑矮星」）。
+> ✅ **已解除**——作者裁定：恒星**存在过、后来全部死掉**（约十万亿年前），
+> 黑矮星就是恒星残骸，两者**互相支持**。
 > 作者裁定：**恒星存在过，然后全部死掉了**——黑矮星**就是**恒星存在过的证据。
 > 旧编号 X1／X2 与 E2（无恒星却有铁）、E3（`D/H` 约束）**一并解除**。
 > 「黑洞纪元」取消，统一为**烬纪**。详见 `RESTRUCTURE/PINS.md`。
@@ -1251,11 +1259,11 @@ import glob as _glob
 
 # (filename-suffix, old, new). Match is wrap-tolerant.
 _WORDING = [
-    # W-01 (PIN-14 / 09 §I.6 reading constraint): scope the claim to this era.
-    ("05_剧情.md",
-     "物质条件，在宇宙的整个演化史中从未被满足", "物质条件，在这一纪元中从未被满足"),
-    # PIN-14: retire "黑洞纪元"
-    ("05_剧情.md", "本宇宙处于黑洞纪元。", "本宇宙处于烬纪。"),
+    # NOTE: the 05 §3 star-origin sentence is corrected in .build/doc.json
+    # (its extraction source), NOT here. The previous wrap-tolerant rewrite
+    # produced "在这一纪元中从未被满足", which STILL implied stars never
+    # existed. Author correction SET8: stars did ignite, ~1e13 years ago.
+    # "黑洞纪元" is likewise retired at the source (-> 烬纪).
 
     # --- typo repair: the engine is 它, not 他 (no gendered pronoun for a machine) ---
     ("02_弦与扩散机.md",
@@ -1294,6 +1302,9 @@ _DROP_DUP = [
 
 import re as _re
 
+# Records that QUOTE the original wording must not be rewritten.
+_QUOTING = ('08_', '09_', '10_', '13_', '14_')
+
 # Author ruling SET5: "全直呼名字" => the kinship term 外婆 must not appear in
 # narrative content. (Policy/ruling documents are in _QUOTING and are skipped.)
 _KINSHIP = [("这个碗是你外婆的", "")]
@@ -1309,8 +1320,6 @@ for _f in _glob.glob(f'{O}/*.md'):
         print(f"  kinship pass: {os.path.basename(_f)}")
 
 # Records that QUOTE the original wording must not be rewritten.
-_QUOTING = ('08_', '09_', '10_', '13_', '14_')
-
 for _f in _glob.glob(f'{O}/*.md'):
     if any(os.path.basename(_f).startswith(q) for q in _QUOTING):
         continue
