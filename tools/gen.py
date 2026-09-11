@@ -1249,12 +1249,36 @@ print("all 7 docs done")
 # ----------------------------------------------------------------------
 import glob as _glob
 
+# (filename-suffix, old, new). Match is wrap-tolerant.
 _WORDING = [
     # W-01 (PIN-14 / 09 §I.6 reading constraint): scope the claim to this era.
-    # Wrapped across PDF lines, so match on whitespace-stripped text.
-    ("物质条件，在宇宙的整个演化史中从未被满足", "物质条件，在这一纪元中从未被满足"),
+    ("05_剧情.md",
+     "物质条件，在宇宙的整个演化史中从未被满足", "物质条件，在这一纪元中从未被满足"),
     # PIN-14: retire "黑洞纪元"
-    ("本宇宙处于黑洞纪元。", "本宇宙处于烬纪。"),
+    ("05_剧情.md", "本宇宙处于黑洞纪元。", "本宇宙处于烬纪。"),
+
+    # --- E-7-2 : 领航员 = selection pressure, NOT the cause of consciousness ---
+    # (doc 02 only; doc 03 carries the same society block, so keep this targeted)
+    ("02_弦与扩散机.md",
+     "寿命短而悲壮（在世俗意义上，但是实际上他们是root），能掌握扩散机的全部，但 是一旦他们的道德水平不行就会大祸",
+     "寿命短而悲壮（在世俗意义上，但是实际上他们是root），能掌握扩散机的全部，但 是一旦他们的道德水平不行就会大祸\n"
+     "\n"
+     "  > ⟦限定⟧ **“注意力迭代选择出的”指的是选择的压力，不是意识的成因。**\n"
+     "  > 由 `09 §V.3`：`Attention ≠ Consciousness`——注意力是意识的**必要不充分**条件。\n"
+     "  > 领航员之所以是领航员，是因为**它们被选中**，不是因为注意力**生成了**它们的心智。"),
+
+    # --- E-7-1 : scale problem, not capability problem ---
+    ("02_弦与扩散机.md",
+     "- 无法从虚空取得预算——被守恒公理所禁。",
+     "- 无法从虚空取得预算——被守恒公理所禁。\n"
+     "\n"
+     "> ⟦区分⟧ **“能生成”与“不能重建完整光场”不是矛盾，是规模问题，不是能力问题。**\n"
+     "> 引擎受**几何预算（G2/F3）**约束，**不受守恒总量约束**。\n"
+     "> 在深抹平区，预算已被抽走 → `rate_le_of_budget` 给出**天花板极低** →\n"
+     "> **维持任何大尺度稳定结构在预算上不可能。**\n"
+     ">\n"
+     "> 所以：**它造得出碎片状的畸胎瘤，造不出一个太阳。**\n"
+     "> **不是它不够强，是账不够。**"),
 ]
 
 # Doc 01 §0: the PDF captured the theme sentence twice (blockquote + body).
@@ -1276,7 +1300,9 @@ for _f in _glob.glob(f'{O}/*.md'):
     _o = _t
 
     # wrap-tolerant wording substitution
-    for _a, _b in _WORDING:
+    for _scope, _a, _b in _WORDING:
+        if not _f.endswith(_scope):
+            continue
         _strip = _a.replace(' ', '')
         if _strip in _t.replace('\n', '').replace(' ', ''):
             # rebuild by matching the pattern with optional newlines/spaces
