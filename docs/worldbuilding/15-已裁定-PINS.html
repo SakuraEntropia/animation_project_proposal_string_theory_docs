@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>🔒 已裁定 · PINS</title>
+<meta name="robots" content="noindex, nofollow">
+<style>
+  :root { --bg:#0d0f12; --fg:#e8e6e1; --dim:#8b8f96; --line:#23272d; --accent:#c9a227; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg);
+         font:16px/1.75 -apple-system,"PingFang SC","Noto Sans CJK SC",system-ui,sans-serif; }
+  .wrap { max-width:820px; margin:0 auto; padding:56px 24px 120px; }
+  h1 { font-size:20px; font-weight:600; letter-spacing:.02em; margin:0 0 6px; }
+  .sub { color:var(--dim); font-size:13px; margin-bottom:32px; }
+  .lock { border:1px solid var(--line); border-radius:10px; padding:24px; background:#111418; }
+  label { display:block; font-size:13px; color:var(--dim); margin-bottom:8px; }
+  input { width:100%; padding:11px 13px; font-size:15px; color:var(--fg);
+           background:#0a0c0f; border:1px solid var(--line); border-radius:7px; outline:none; }
+  input:focus { border-color:var(--accent); }
+  button { margin-top:14px; width:100%; padding:11px; font-size:15px; cursor:pointer;
+            color:#0d0f12; background:var(--accent); border:0; border-radius:7px; font-weight:600; }
+  button:disabled { opacity:.5; cursor:progress; }
+  .msg { margin-top:14px; font-size:13px; min-height:20px; color:var(--dim); }
+  .msg.err { color:#e06c75; }
+  .meta { margin-top:26px; padding-top:18px; border-top:1px solid var(--line);
+           font-size:12px; color:var(--dim); }
+  .meta code { color:#9aa4b2; }
+  #doc { display:none; }
+  #doc.on { display:block; }
+  .dochead { display:flex; justify-content:space-between; align-items:center;
+              border-bottom:1px solid var(--line); padding-bottom:14px; margin-bottom:28px; }
+  .dochead .t { font-size:13px; color:var(--dim); }
+  .dochead button { width:auto; margin:0; padding:6px 12px; font-size:12px;
+                     background:transparent; color:var(--dim); border:1px solid var(--line); }
+  pre { white-space:pre-wrap; word-wrap:break-word; font:14px/1.85 ui-monospace,
+         SFMono-Regular,Menlo,monospace; color:#d7d3cc; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🔒 已裁定 · PINS</h1>
+  <div class="sub">本页内容已加密。输入密码以解密。<br>
+    明文从未以未加密形式存储于本仓库。</div>
+
+  <div id="gate" class="lock">
+    <label for="pw">密码</label>
+    <input id="pw" type="password" autocomplete="current-password" autofocus>
+    <button id="go">解密</button>
+    <div id="msg" class="msg"></div>
+    <div class="meta">
+      AES-256-GCM · PBKDF2-SHA256 · 600000 iterations<br>
+      SHA-256(ciphertext) = <code>62a1ae70861ad0ed4ad762525391554d…</code>
+    </div>
+  </div>
+
+  <div id="doc">
+    <div class="dochead">
+      <span class="t">已裁定 · PINS</span>
+      <button id="relock">重新锁定</button>
+    </div>
+    <pre id="body"></pre>
+  </div>
+</div>
+
+<script id="payload" type="application/json">{"salt":"dKXirReFO6+/w0n+AwdRCQ==","iv":"iTQnbcA5kt+fnUII","ct":"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","iterations":600000,"sha256":"62a1ae70861ad0ed4ad762525391554d4e30443b4ceb974edfe03693662f427d"}</script>
+<script>
+(function () {
+  const P = JSON.parse(document.getElementById('payload').textContent);
+  const $ = (id) => document.getElementById(id);
+
+  const b64 = (s) => {
+    const bin = atob(s), out = new Uint8Array(bin.length);
+    for (let i = 0; i < bin.length; i++) out[i] = bin.charCodeAt(i);
+    return out;
+  };
+
+  async function decrypt(pw) {
+    const enc = new TextEncoder();
+    const base = await crypto.subtle.importKey('raw', enc.encode(pw), 'PBKDF2', false, ['deriveKey']);
+    const key = await crypto.subtle.deriveKey(
+      { name: 'PBKDF2', salt: b64(P.salt), iterations: P.iterations, hash: 'SHA-256' },
+      base, { name: 'AES-GCM', length: 256 }, false, ['decrypt']);
+    const pt = await crypto.subtle.decrypt(
+      { name: 'AES-GCM', iv: b64(P.iv), tagLength: 128 }, key, b64(P.ct));
+    return new TextDecoder().decode(pt);
+  }
+
+  async function attempt() {
+    const pw = $('pw').value;
+    if (!pw) return;
+    $('go').disabled = true;
+    $('msg').className = 'msg';
+    $('msg').textContent = '正在派生密钥…（约 1 秒）';
+    try {
+      const text = await decrypt(pw);
+      $('body').textContent = text;
+      $('gate').style.display = 'none';
+      $('doc').classList.add('on');
+      document.title = "15_已裁定_PINS";
+      sessionStorage.setItem('st-pw', pw);
+    } catch (e) {
+      $('msg').className = 'msg err';
+      $('msg').textContent = '密码错误。';
+      $('pw').select();
+    } finally {
+      $('go').disabled = false;
+    }
+  }
+
+  $('go').addEventListener('click', attempt);
+  $('pw').addEventListener('keydown', (e) => { if (e.key === 'Enter') attempt(); });
+  $('relock').addEventListener('click', () => {
+    sessionStorage.removeItem('st-pw');
+    $('body').textContent = '';
+    $('pw').value = '';
+    $('doc').classList.remove('on');
+    $('gate').style.display = '';
+    $('msg').textContent = '';
+    document.title = "🔒 已裁定 · PINS";
+  });
+
+  // Auto-unlock within the same tab session (sessionStorage only, never cookies).
+  const saved = sessionStorage.getItem('st-pw');
+  if (saved) { $('pw').value = saved; attempt(); }
+})();
+</script>
+</body>
+</html>
