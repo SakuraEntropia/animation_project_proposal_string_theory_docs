@@ -12531,5 +12531,35 @@
   "batch": 3,
   "st_rel": 0,
   "st_hits": []
+ },
+ {
+  "title": "All Tomorrows",
+  "medium": "novel",
+  "year": 2006,
+  "wbid": 7,
+  "fsid": 5,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-07",
+   "FS-14",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-ENT",
+   "SYM-TEC"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-16",
+   "WB-29"
+  ],
+  "lesson": "Frame a deliberately broken tech tree as a genetic imperative imposed by an external agent; let deep time and entropy, not plot, induce change.",
+  "st_rel": 0,
+  "st_hits": [],
+  "batch": 99
  }
 ]
