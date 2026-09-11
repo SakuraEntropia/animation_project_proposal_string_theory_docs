@@ -1,0 +1,19 @@
+name = "formalized_world"
+version = "0.1.0"
+keywords = ["world-model", "entropy", "formalization"]
+defaultTargets = ["World"]
+
+[leanOptions]
+pp.unicode.fun = true
+relaxedAutoImplicit = false
+weak.linter.mathlibStandardSet = true
+maxSynthPendingDepth = 3
+autoImplicit = false
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.33.1"
+
+[[lean_lib]]
+name = "World"

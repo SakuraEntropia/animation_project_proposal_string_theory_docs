@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>🔒 配乐提案</title>
+<meta name="robots" content="noindex, nofollow">
+<style>
+  :root { --bg:#0d0f12; --fg:#e8e6e1; --dim:#8b8f96; --line:#23272d; --accent:#c9a227; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg);
+         font:16px/1.75 -apple-system,"PingFang SC","Noto Sans CJK SC",system-ui,sans-serif; }
+  .wrap { max-width:820px; margin:0 auto; padding:56px 24px 120px; }
+  h1 { font-size:20px; font-weight:600; letter-spacing:.02em; margin:0 0 6px; }
+  .sub { color:var(--dim); font-size:13px; margin-bottom:32px; }
+  .lock { border:1px solid var(--line); border-radius:10px; padding:24px; background:#111418; }
+  label { display:block; font-size:13px; color:var(--dim); margin-bottom:8px; }
+  input { width:100%; padding:11px 13px; font-size:15px; color:var(--fg);
+           background:#0a0c0f; border:1px solid var(--line); border-radius:7px; outline:none; }
+  input:focus { border-color:var(--accent); }
+  button { margin-top:14px; width:100%; padding:11px; font-size:15px; cursor:pointer;
+            color:#0d0f12; background:var(--accent); border:0; border-radius:7px; font-weight:600; }
+  button:disabled { opacity:.5; cursor:progress; }
+  .msg { margin-top:14px; font-size:13px; min-height:20px; color:var(--dim); }
+  .msg.err { color:#e06c75; }
+  .meta { margin-top:26px; padding-top:18px; border-top:1px solid var(--line);
+           font-size:12px; color:var(--dim); }
+  .meta code { color:#9aa4b2; }
+  #doc { display:none; }
+  #doc.on { display:block; }
+  .dochead { display:flex; justify-content:space-between; align-items:center;
+              border-bottom:1px solid var(--line); padding-bottom:14px; margin-bottom:28px; }
+  .dochead .t { font-size:13px; color:var(--dim); }
+  .dochead button { width:auto; margin:0; padding:6px 12px; font-size:12px;
+                     background:transparent; color:var(--dim); border:1px solid var(--line); }
+  pre { white-space:pre-wrap; word-wrap:break-word; font:14px/1.85 ui-monospace,
+         SFMono-Regular,Menlo,monospace; color:#d7d3cc; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🔒 配乐提案</h1>
+  <div class="sub">本页内容已加密。输入密码以解密。<br>
+    明文从未以未加密形式存储于本仓库。</div>
+
+  <div id="gate" class="lock">
+    <label for="pw">密码</label>
+    <input id="pw" type="password" autocomplete="current-password" autofocus>
+    <button id="go">解密</button>
+    <div id="msg" class="msg"></div>
+    <div class="meta">
+      AES-256-GCM · PBKDF2-SHA256 · 600000 iterations<br>
+      SHA-256(ciphertext) = <code>30a924c8270254ce930154bdf78abf14…</code>
+    </div>
+  </div>
+
+  <div id="doc">
+    <div class="dochead">
+      <span class="t">配乐提案</span>
+      <button id="relock">重新锁定</button>
+    </div>
+    <pre id="body"></pre>
+  </div>
+</div>
+
+<script id="payload" type="application/json">{"salt":"0os/asv2qNd/FEX4O8FDow==","iv":"iGWvjIqiC0nDrjxp","ct":"6YXpDrQHOKkWPwgRLWZWMBVhSErGbqGysztPmK6q7ptJVwNJuZqdgpzxssl1rU5srnVDU6ZZOU2YVcqCXrctqtKk56Am5H16AL0hTj0qIRoA9pfNZD9Ui3cn4RaGPT+o32QcmEMaAgZjX2RmvMH2QCDfohxoMdT6iL2Dn/XjjPcDVA9NIBaMaOeLx7A7b1Kv1/O1kldhzpRT9N67rkVXNy8u3wjOKmDFW+sNsKNa5yZm/2fqLzIfRr0crjZVR2kMFpr31ihaULzkxXbCv/DpxHe3td+RH79vusg4d4UH4RqqBJS14JlvJnocoenj2M1f9fZTAgFg3+YgX7m6W8g/n5PJZr6hg8Jf/OHV0XGPDFwFF4IZ5QWmkzTCzwBXgnJEIYw0NRsrrfszA/Z2geD93Hp/nDEuHg9syQuNc4+EUXOleGPIj8euXPjv+ECvjuH6wEhnYmRHa+yoXlkEhUvF/YaYBcv2jr8vzy0D2W8EYv2UavyLPwi78qWlvbBsLpBWdrcRcwQRMuNngkZf7E2YoUaGax2FvLUiCdCGB3r22KBLmLaqm0I3fPAEdYw7ikFkskEG9wLsxFJjvoB3D+GPyLbFUzy1bMb/cC5VWW5S2fNuqN2A//dlUZZr1ngFcmq7qHMxZAD+u4Ug/b7zPQNICYklOa/Ur15s10qAp3NNlavXSBlDs1eSjqnlTZ4Alaw+7Db8rJL83FyFCniNqOMGR78sBxRyOj54tjL7k5OH9IjoB3RAVXVSivk1z1FErLAn8Z1OCwlzkBB55sy7R5sc0r5MiyV4XWjMhi+EvDRbI88EPQZkhmogAjW80VGOelMfoWNyCHzQ4ZofaP6fJdLL4f5SsHTZypaSvjJFtMD5APoKfrsYysI7TxHs5CSra6xegWyY39yOQ24sopx/i57WZG0wJZ+jUeHkfzg9hRfhIfEFI5I5R4OBzfnISlg3h5fXGP0vjBTyvNj6WHpE4lMcw4rlsWaLLhD/2fMGURmVMUCQTuzIn1Tq2zFwUvAGCkzGxW0uUp0kA9FO3GCi2BDzjTJCc8xvY0czzvbGgaPTUDIbU6rlp4jS+wpGE8swyFkVwo2DJiN9ilsvJ3OmGMk9tluwTtvgEREu3By48Jl/ZP8OkzO96vFhQwxuogOY0UK4s/ps0SXNzneUJevJiImFXOccB9gza2NxZW36I08rpp3NkA2f26mjqqMapVwauI0+RnxMH1R0KDxiuXEjom8K54b/YEZZ81gM42xQPzmSquI6uziyjuFoDGUx78sQafXg/t5fPb2Or3bC0I7IR6uxS/p1/Aa2qwpC4J/SrVK/qaQdMkBgqOi4A98VSs7tNb0UV3HHcovQDVpGXHxlb2Lgb4aCf9K0+sZ4ZIKeSCCpggoE/eX+RzoVv4UOJBKLvap1LcAuxE1Ua7CB9qXYdl7DUDidn42sUeJ7zFXxKIwMhL2fIj5IkGsOFHEzeZxqjdG5Qy5InDUDpQnVPJ3Xk3K81ADjz1RwAYmscsIHJoJRfZryjo3qtKSSSyTCXshBb9DYeTM0+1+iP+QbiCLV9mYTTxLL6nU2DHkFS42fWTZsexshZctPaA+IUxSdpje8JzEryFEH76GncF65FccoHxjw1NUpy5KY7chxhnUDnGZ63pCHqE1RX6cfBLoWlQWpzNnrULc4osutQR+xeiD5uEeOvljYJvYwGprrZ6Df7FslYfPLyZE//D0UZU6OZo9pm9RiwSPm8ISNkMGi3j3sPzlxZkhpu6/Qj9IxxffMGInAWvZF1ZnGqckbL6u4h3SSNKimJZUxEavSyl0SV1gawO+Lzt4mBKHtCchlrEwsPAWtMKTJF50PSDYPX90z32YR91/NUDT/8aeqv6FRVX7YhaLAcX6ZYQZphvHcpNIfhrUgky/WoganW2PQeiXApPjqRfItU9Ku6xdaN31nmXQtnMpHl/SkATVklgooR4RLuhDzgLdYOT+8xMd0o+pEcjQyOuGnqAllA+uZHWLhOpPHv/kxsDAnmzlIbhXqsWpRDRgWKrFYFEjG43Y41thYHgKZN5DEdovPXdardU1qeHfOLc7iwDh/rWddGi7PCRQZd/n3Nfi7jWVgk7I9TaBNb9N7gooGjJSYnYycSuLPGjZ0mtTSgEKMaAH2TzFEZ9BCOUbrxfFzenNH3qA3/VODx26RX602p8/cxdTYzVJbVOelMXI9WA2GfF/l4fR2L9L7rz4aHw1gEa0OrRZGNjlWxqqJo8mjaPww/EBP+JjTLLHZy9FICDV4v+YsNXM/BUekWFOXr5eZZBSb4pipWJXueP/bJRAHX6pbnKX/6W8nS0zNGCgfcMVaMLUrdyJuhcGAPIkfVAWtnmk1UuiteDsLbF4AyMWznXQEH2O6p0cYRSt3gDuy2ZWgCUXpwZQx+IFw3OGETuLxNdV9Cj85WGp0csrgvI7DHlpA/2PJvpmwX/NonbUE0R8k7fXnDI54QCqP06LQUMmVWMD/wOMBDHlvKzHPr/fnRSCYsdJF+3q3dQSogPKvlihXyK0rciS9TlxxZrgKt+QYCYxtRPYSUb7WidcltQMeD0sEVokdOpD+Wqov7lYQcWJhKBdk3ONBCnDf9vEun2Ey2UpNdkuu8OV0RCZWMbl4vmtb4sq/IhHz7HfPJG0j9L8L/WMNW2wODTwBohJiDX3XQ/HXQYFxxAf8QyWM11LvWX90JuFJidZkwHFuZ79sVpiyJDilI6+d1s/3/2/xolYpLwKXp+NBygFjPkrnMr3mFe2e/flyXaMNqj3uBUv6UuKNWwFw7jEXANPNym+UnT9tTIDuTCWQwf839rPA5xELieHgKR5zIlCj9xMVoxpsFyYddKqDgrHA5dAIJ9NkvdU4rC0AR+yzZlMtOB91BSbkOKpJMoweRanf2GbxTxs8WCEq97AR6gcOMNMuyoXn+u3sMHBA/zO6wD2T6nPMFE7llO8nALI/flWvtn9l8qlj0G65AdOE6Yhvi5EpDoKDVCC91aMpzU+6T/BKjFEu5imyRFzcySRnK7XoxebV4v8l1mC7G1PcNe8Jw01jyTIon/v5GqBxBBvIFINcAfiWpwbI7P2+3mYJkaXh3+mg7cCmEbquzoI9A93GEc4SPsjqLDRdJ+KI6UXxNvHwK+WZglxXLCYW9lpsgCaA6pB9n/+IYv2ZF1wSBixFpnNzUE6JcZ9OTpvuarBcsrY37qpM+XL0BQ==","iterations":600000,"sha256":"30a924c8270254ce930154bdf78abf14d4b533d4792dbb756f3b7b568d93bf67"}</script>
+<script>
+(function () {
+  const P = JSON.parse(document.getElementById('payload').textContent);
+  const $ = (id) => document.getElementById(id);
+
+  const b64 = (s) => {
+    const bin = atob(s), out = new Uint8Array(bin.length);
+    for (let i = 0; i < bin.length; i++) out[i] = bin.charCodeAt(i);
+    return out;
+  };
+
+  async function decrypt(pw) {
+    const enc = new TextEncoder();
+    const base = await crypto.subtle.importKey('raw', enc.encode(pw), 'PBKDF2', false, ['deriveKey']);
+    const key = await crypto.subtle.deriveKey(
+      { name: 'PBKDF2', salt: b64(P.salt), iterations: P.iterations, hash: 'SHA-256' },
+      base, { name: 'AES-GCM', length: 256 }, false, ['decrypt']);
+    const pt = await crypto.subtle.decrypt(
+      { name: 'AES-GCM', iv: b64(P.iv), tagLength: 128 }, key, b64(P.ct));
+    return new TextDecoder().decode(pt);
+  }
+
+  async function attempt() {
+    const pw = $('pw').value;
+    if (!pw) return;
+    $('go').disabled = true;
+    $('msg').className = 'msg';
+    $('msg').textContent = '正在派生密钥…（约 1 秒）';
+    try {
+      const text = await decrypt(pw);
+      $('body').textContent = text;
+      $('gate').style.display = 'none';
+      $('doc').classList.add('on');
+      document.title = "06_配乐提案";
+      sessionStorage.setItem('st-pw', pw);
+    } catch (e) {
+      $('msg').className = 'msg err';
+      $('msg').textContent = '密码错误。';
+      $('pw').select();
+    } finally {
+      $('go').disabled = false;
+    }
+  }
+
+  $('go').addEventListener('click', attempt);
+  $('pw').addEventListener('keydown', (e) => { if (e.key === 'Enter') attempt(); });
+  $('relock').addEventListener('click', () => {
+    sessionStorage.removeItem('st-pw');
+    $('body').textContent = '';
+    $('pw').value = '';
+    $('doc').classList.remove('on');
+    $('gate').style.display = '';
+    $('msg').textContent = '';
+    document.title = "🔒 配乐提案";
+  });
+
+  // Auto-unlock within the same tab session (sessionStorage only, never cookies).
+  const saved = sessionStorage.getItem('st-pw');
+  if (saved) { $('pw').value = saved; attempt(); }
+})();
+</script>
+</body>
+</html>

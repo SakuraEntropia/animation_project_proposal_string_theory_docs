@@ -1,0 +1,24 @@
+# ---- secrets: never commit ----
+.repo-credentials
+.env
+*.pem
+
+# ---- Lean build artifacts (multi-GB, regenerable) ----
+.lake/
+**/.lake/
+*.olean
+*.ilean
+*.c
+*.o
+*.trace
+*.hash
+
+# ---- generator scratch ----
+.build/
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
