@@ -1257,6 +1257,10 @@ _WORDING = [
     # PIN-14: retire "黑洞纪元"
     ("05_剧情.md", "本宇宙处于黑洞纪元。", "本宇宙处于烬纪。"),
 
+    # --- typo repair: the engine is 它, not 他 (no gendered pronoun for a machine) ---
+    ("02_弦与扩散机.md",
+     "扩散机他的难度随着系统复杂度增加", "扩散机它的难度随着系统复杂度增加"),
+
     # --- E-7-2 : 领航员 = selection pressure, NOT the cause of consciousness ---
     # (doc 02 only; doc 03 carries the same society block, so keep this targeted)
     ("02_弦与扩散机.md",
