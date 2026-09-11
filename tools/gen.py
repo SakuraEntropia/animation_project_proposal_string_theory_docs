@@ -45,6 +45,25 @@ def enum(block):
     items = [re.sub(r'^\d+\.\s*', '', ' '.join(g)) for g in groups]
     return '\n\n'.join('- ' + t for t in items)
 
+
+def reflow_items(block):
+    """Re-join source items '1. foo' / '2. bar' whose text wrapped across PDF lines.
+    Returns a list of (num, text)."""
+    out = []
+    for raw in block.split('\n'):
+        t = raw.strip()
+        if not t:
+            continue
+        m = re.match(r'^(\d+)\.\s*(.*)$', t)
+        if m:
+            out.append([int(m.group(1)), m.group(2)])
+        elif out:
+            out[-1][1] += t          # continuation of the previous item
+    return [(n, re.sub(r'\s+', ' ', x).strip()) for n, x in out]
+
+def numbered_list(block):
+    return '\n'.join(f'{n}. {t}' for n, t in reflow_items(block))
+
 def hdr(src_, form):
     return f"<!--\n  SOURCE: {src_}\n  FORM:   {form}\n-->\n\n"
 
@@ -268,7 +287,7 @@ W('02_弦与扩散机.md', hdr(
 
 ## 6. 生物体系
 
-{enum(top(5))}
+{numbered_list(top(5))}
 
 ---
 
@@ -280,7 +299,7 @@ W('02_弦与扩散机.md', hdr(
 
 ## 8. 物件体系
 
-{enum(top(7))}
+{numbered_list(top(7))}
 
 ---
 
