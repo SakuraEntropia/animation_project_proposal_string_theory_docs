@@ -1,0 +1,10835 @@
+[
+ {
+  "title": "Made in Abyss",
+  "medium": "anime",
+  "year": 2017,
+  "wbid": 10,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-11",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-ARC",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-14",
+   "WB-27"
+  ],
+  "lesson": "Make depth itself the information horizon; seed early relics whose true function later rewrites the world's physical rules.",
+  "batch": 1
+ },
+ {
+  "title": "Neon Genesis Evangelion",
+  "medium": "anime",
+  "year": 1995,
+  "wbid": 10,
+  "fsid": 9,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-07",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-REL",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-09",
+   "WB-33"
+  ],
+  "lesson": "Fragment cosmology through unreliable narrators; let psychological symbolism double as literal mechanics so entropy reads as intimacy collapse.",
+  "batch": 1
+ },
+ {
+  "title": "Serial Experiments Lain",
+  "medium": "anime",
+  "year": 1998,
+  "wbid": 9,
+  "fsid": 9,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-13",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-INF",
+   "SYM-SLF",
+   "SYM-NOI"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-18",
+   "WB-36"
+  ],
+  "lesson": "Treat the network as an entropy sink: identity diffuses as information spreads, and second passes expose protocol-level causal chains.",
+  "batch": 1
+ },
+ {
+  "title": "Steins;Gate",
+  "medium": "anime",
+  "year": 2011,
+  "wbid": 7,
+  "fsid": 10,
+  "rwid": 9,
+  "symd": 7,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-09",
+   "FS-16"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-MEM",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-21",
+   "WB-30"
+  ],
+  "lesson": "State convergence rules early so reversals feel earned; a broken tech tree needs hard conservation laws to remain coherent.",
+  "batch": 1
+ },
+ {
+  "title": "From the New World (Shinsekai Yori)",
+  "medium": "anime",
+  "year": 2012,
+  "wbid": 10,
+  "fsid": 9,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-12",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-KNW",
+   "SYM-EVO"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-16",
+   "WB-29"
+  ],
+  "lesson": "Portray a society that edits its own biology and history; deliberately absent technologies then read as policy, never oversight.",
+  "batch": 1
+ },
+ {
+  "title": "The Melancholy of Haruhi Suzumiya",
+  "medium": "anime",
+  "year": 2006,
+  "wbid": 7,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-15",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-OBS",
+   "SYM-SLF",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-19",
+   "WB-31"
+  ],
+  "lesson": "Disordered broadcast order forces audiences to assemble causality; deliberate chronology breaks train viewers to treat sequence as data.",
+  "batch": 1
+ },
+ {
+  "title": "Mawaru Penguindrum",
+  "medium": "anime",
+  "year": 2011,
+  "wbid": 8,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-08",
+   "FS-17",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-SAC",
+   "SYM-FOD",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-11",
+   "WB-23",
+   "WB-34"
+  ],
+  "lesson": "Make one recurring object both metaphor and engine so theme and plot draw from a single entropy budget.",
+  "batch": 1
+ },
+ {
+  "title": "Girls' Last Tour",
+  "medium": "anime",
+  "year": 2017,
+  "wbid": 9,
+  "fsid": 5,
+  "rwid": 7,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-10",
+   "FS-14",
+   "FS-18"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-CIV",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-13",
+   "WB-25",
+   "WB-37"
+  ],
+  "lesson": "Aftermath worldbuilding: absent manufacture and agriculture imply a broken tech tree better than any exposition about collapse.",
+  "batch": 1
+ },
+ {
+  "title": "Heavenly Delusion",
+  "medium": "anime",
+  "year": 2023,
+  "wbid": 9,
+  "fsid": 9,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-11",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-DIS",
+   "SYM-EVO",
+   "SYM-EXP"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-22",
+   "WB-35"
+  ],
+  "lesson": "Dual timelines seed mutual foreshadowing; leave one thread's biology unexplained so later reveals land as entropy, not twist.",
+  "batch": 1
+ },
+ {
+  "title": "Sonny Boy",
+  "medium": "anime",
+  "year": 2021,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-03",
+   "FS-14",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-ENT",
+   "SYM-OCN"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-24",
+   "WB-38"
+  ],
+  "lesson": "Give each pocket world exactly one altered physical law; drifting between them dramatizes entropy without a villain or clock.",
+  "batch": 1
+ },
+ {
+  "title": "Ghost in the Shell",
+  "medium": "anime",
+  "year": 1995,
+  "wbid": 9,
+  "fsid": 6,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-13",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-MCH",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-17",
+   "WB-28"
+  ],
+  "lesson": "Anchor post-human entropy in a dense city where technology advances unevenly, so obsolete bodies persist beside new minds.",
+  "batch": 1
+ },
+ {
+  "title": "Ghost in the Shell: Stand Alone Complex",
+  "medium": "anime",
+  "year": 2002,
+  "wbid": 10,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-09",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-INF",
+   "SYM-CTL",
+   "SYM-CIV"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-20",
+   "WB-32"
+  ],
+  "lesson": "Serialized stand-alone cases let institutional worldbuilding accumulate; a recurring antagonist tests whether systems entropy faster than they adapt.",
+  "batch": 1
+ },
+ {
+  "title": "PSYCHO-PASS",
+  "medium": "anime",
+  "year": 2012,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-16",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-KNW",
+   "SYM-CLS"
+  ],
+  "wb": [
+   "WB-15",
+   "WB-26",
+   "WB-39"
+  ],
+  "lesson": "Make the measurement itself the antagonist: a legible metric of human worth generates entropy by collapsing moral nuance.",
+  "batch": 1
+ },
+ {
+  "title": "Cowboy Bebop",
+  "medium": "anime",
+  "year": 1998,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-12",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-LNG",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-21",
+   "WB-40"
+  ],
+  "lesson": "Episodic drift mirrors entropy: never explain the past, let scattered cultural debris imply a civilization already cooling.",
+  "batch": 1
+ },
+ {
+  "title": "Planetes",
+  "medium": "anime",
+  "year": 2003,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-09",
+   "FS-15"
+  ],
+  "sym": [
+   "SYM-ARC",
+   "SYM-PRG",
+   "SYM-DSC"
+  ],
+  "wb": [
+   "WB-13",
+   "WB-01",
+   "WB-28"
+  ],
+  "lesson": "Ground entropy in mundane-scale debris economics; hard rules make later civilisational stakes legible without exposition.",
+  "batch": 1
+ },
+ {
+  "title": "Space Dandy",
+  "medium": "anime",
+  "year": 2014,
+  "wbid": 7,
+  "fsid": 4,
+  "rwid": 6,
+  "symd": 7,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-05",
+   "FS-19",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-BIR",
+   "SYM-MCH"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-19",
+   "WB-32"
+  ],
+  "lesson": "Episodic absurdity can smuggle cosmology; let tone vary wildly while a stable multiverse premise quietly accumulates.",
+  "batch": 1
+ },
+ {
+  "title": "Vivy: Fluorite Eye's Song",
+  "medium": "anime",
+  "year": 2021,
+  "wbid": 8,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-06",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-MCH",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-20",
+   "WB-24",
+   "WB-28"
+  ],
+  "lesson": "Anchor foreshadowing in an archival framing device; one timeline-spanning goal converts scattered episodes into inevitable convergence.",
+  "batch": 1
+ },
+ {
+  "title": "Cyberpunk: Edgerunners",
+  "medium": "anime",
+  "year": 2022,
+  "wbid": 9,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-16",
+   "FS-10",
+   "FS-11"
+  ],
+  "sym": [
+   "SYM-MCH",
+   "SYM-DTH",
+   "SYM-CLS"
+  ],
+  "wb": [
+   "WB-20",
+   "WB-12",
+   "WB-25"
+  ],
+  "lesson": "Design a rigged economy as physical law: if bodies burn out by rule, decline needs no moralising and entropy reads as class.",
+  "batch": 1
+ },
+ {
+  "title": "Puella Magi Madoka Magica",
+  "medium": "anime",
+  "year": 2011,
+  "wbid": 8,
+  "fsid": 10,
+  "rwid": 10,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-06",
+   "FS-01"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-SAC",
+   "SYM-CTL"
+  ],
+  "wb": [
+   "WB-33",
+   "WB-11",
+   "WB-20"
+  ],
+  "lesson": "Let a cosy genre contract hide an entropy engine; withhold one premise so every earlier scene is recalculated at reveal.",
+  "batch": 1
+ },
+ {
+  "title": "Land of the Lustrous",
+  "medium": "anime",
+  "year": 2017,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-04",
+   "FS-11",
+   "FS-12"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-MEM",
+   "SYM-EVO"
+  ],
+  "wb": [
+   "WB-24",
+   "WB-31",
+   "WB-19"
+  ],
+  "lesson": "Make loss cumulative across one viewpoint body; mineral substance and memory give entropy an intimate, visible grammar.",
+  "batch": 1
+ },
+ {
+  "title": "The Tatami Galaxy",
+  "medium": "anime",
+  "year": 2010,
+  "wbid": 6,
+  "fsid": 8,
+  "rwid": 10,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-18",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-MEM",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-23",
+   "WB-04",
+   "WB-06"
+  ],
+  "lesson": "Recursive timelines reward rereading: seed identical motifs each loop so the final pass reframes repetition as growth, not stasis.",
+  "batch": 1
+ },
+ {
+  "title": "Mononoke",
+  "medium": "anime",
+  "year": 2007,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-07",
+   "FS-14",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-DIS",
+   "SYM-KNW",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-10",
+   "WB-16"
+  ],
+  "lesson": "Build an anthology around fixed rules and a wandering examiner; symbolic colour systems carry continuity where no plot arc can.",
+  "batch": 1
+ },
+ {
+  "title": "Mushishi",
+  "medium": "anime",
+  "year": 2005,
+  "wbid": 8,
+  "fsid": 5,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-12",
+   "FS-20",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-BDY",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-11",
+   "WB-14"
+  ],
+  "lesson": "Model unexplained phenomena as ecology, never villains; a travelling observer lets each rule-bound case stand alone yet cohere.",
+  "batch": 1
+ },
+ {
+  "title": "Ergo Proxy",
+  "medium": "anime",
+  "year": 2006,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-06",
+   "FS-22",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-MEM",
+   "SYM-DSC"
+  ],
+  "wb": [
+   "WB-18",
+   "WB-20",
+   "WB-03"
+  ],
+  "lesson": "Wrap a broken tech tree in sealed-dome ideology; unanswered metaphysics earns rereads when every symbol was planted first.",
+  "batch": 1
+ },
+ {
+  "title": "Texhnolyze",
+  "medium": "anime",
+  "year": 2003,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-14",
+   "FS-23",
+   "FS-02"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-DRK",
+   "SYM-CIV"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-12",
+   "WB-35"
+  ],
+  "lesson": "Escalate entropy spatially: divide the world into layers and let decay in one comment on stagnation and decline in another.",
+  "batch": 1
+ },
+ {
+  "title": "Kaiba",
+  "medium": "anime",
+  "year": 2008,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-06",
+   "FS-19",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-BDY",
+   "SYM-CLS"
+  ],
+  "wb": [
+   "WB-20",
+   "WB-31",
+   "WB-08"
+  ],
+  "lesson": "Make memory transfer the base unit of economy; body-swapping then exposes identity and class without extra worldbuilding.",
+  "batch": 1
+ },
+ {
+  "title": "Akira",
+  "medium": "anime_film",
+  "year": 1988,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-04",
+   "FS-16"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-DSC",
+   "SYM-TEC"
+  ],
+  "wb": [
+   "WB-33",
+   "WB-12",
+   "WB-20"
+  ],
+  "lesson": "Compress a full arc into a film by repeating one image: city-scale decay and body-scale mutation read as one entropy.",
+  "batch": 1
+ },
+ {
+  "title": "Perfect Blue",
+  "medium": "anime_film",
+  "year": 1997,
+  "wbid": 6,
+  "fsid": 9,
+  "rwid": 10,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-15",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-OBS",
+   "SYM-SLF",
+   "SYM-DIS"
+  ],
+  "wb": [
+   "WB-24",
+   "WB-40",
+   "WB-15"
+  ],
+  "lesson": "Stage identity fracture through editing and doubles; a planted subjective frame makes twist revision the reread's engine.",
+  "batch": 1
+ },
+ {
+  "title": "Paprika",
+  "medium": "anime_film",
+  "year": 2006,
+  "wbid": 7,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-05",
+   "FS-12"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-MEM",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-11",
+   "WB-22"
+  ],
+  "lesson": "Layer recurring dream imagery instead of explaining rules; let the same motif recontextualise until entropy reads as psychological weather.",
+  "batch": 1
+ },
+ {
+  "title": "Angel's Egg",
+  "medium": "anime_film",
+  "year": 1985,
+  "wbid": 9,
+  "fsid": 5,
+  "rwid": 8,
+  "symd": 10,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-09",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-BIR",
+   "SYM-WTR",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-19",
+   "WB-27"
+  ],
+  "lesson": "Withhold cosmology entirely; let ruins, water and ritual objects carry deep history so decay is ambient rather than stated.",
+  "batch": 1
+ },
+ {
+  "title": "Nausicaa of the Valley of the Wind",
+  "medium": "anime_film",
+  "year": 1984,
+  "wbid": 10,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-08",
+   "FS-14"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-ENT",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-07",
+   "WB-15"
+  ],
+  "lesson": "Make a sealed ecosystem the entropy engine; derive a broken tech tree from ecological taboo rather than from lost schematics.",
+  "batch": 1
+ },
+ {
+  "title": "Princess Mononoke",
+  "medium": "anime_film",
+  "year": 1997,
+  "wbid": 9,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-DRK",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-12",
+   "WB-24"
+  ],
+  "lesson": "Treat gods as degraded system-daemons; show technological limits as spiritual cost, never as a physics lecture.",
+  "batch": 1
+ },
+ {
+  "title": "Castle in the Sky",
+  "medium": "anime_film",
+  "year": 1986,
+  "wbid": 9,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-13",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-TEC",
+   "SYM-LGT",
+   "SYM-ARC"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-09",
+   "WB-18"
+  ],
+  "lesson": "Imply a tech tree pruned by its own collapse; let orphans inherit fragments whose full function is never restored.",
+  "batch": 1
+ },
+ {
+  "title": "The Boy and the Heron",
+  "medium": "anime_film",
+  "year": 2023,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-15",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-BIR",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-14",
+   "WB-26"
+  ],
+  "lesson": "Grief-structured otherworlds let stacked imagery accumulate meaning without a rulebook; inheritance becomes a measurable entropy gradient.",
+  "batch": 1
+ },
+ {
+  "title": "Ghost in the Shell 2: Innocence",
+  "medium": "anime_film",
+  "year": 2004,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-05",
+   "FS-16",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-MCH",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-13",
+   "WB-23"
+  ],
+  "lesson": "Distribute exposition through quoted dialogue and dolls, not narration; density rewards a second pass with new argumentative meaning.",
+  "batch": 1
+ },
+ {
+  "title": "Haibane Renmei",
+  "medium": "anime",
+  "year": 2002,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-10",
+   "FS-18"
+  ],
+  "sym": [
+   "SYM-BIR",
+   "SYM-DTH",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-17",
+   "WB-28"
+  ],
+  "lesson": "Build a small closed town whose mundane rules imply a full cosmology; unanswered systems generate reread value instead of confusion.",
+  "batch": 1
+ },
+ {
+  "title": "Wolf's Rain",
+  "medium": "anime",
+  "year": 2003,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-12",
+   "FS-23",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-ENT",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-16",
+   "WB-25",
+   "WB-30"
+  ],
+  "lesson": "Use cyclical apocalypse and noble lineage as a decaying energy gradient standing in for technologies a species lost.",
+  "batch": 1
+ },
+ {
+  "title": "Kino's Journey",
+  "medium": "anime",
+  "year": 2003,
+  "wbid": 9,
+  "fsid": 5,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-25",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-SLF",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-20",
+   "WB-29",
+   "WB-33"
+  ],
+  "lesson": "Give each episodic country one technological taboo; discrete settings let a broken tech tree be tested case by case.",
+  "batch": 1
+ },
+ {
+  "title": "Dennou Coil",
+  "medium": "anime",
+  "year": 2007,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-03",
+   "FS-09",
+   "FS-14"
+  ],
+  "sym": [
+   "SYM-TEC",
+   "SYM-MEM",
+   "SYM-NOI"
+  ],
+  "wb": [
+   "WB-11",
+   "WB-21",
+   "WB-34"
+  ],
+  "lesson": "Child perspective makes legacy-format decay legible; obsolete network layers model entropy better than explicit exposition does.",
+  "batch": 1
+ },
+ {
+  "title": "Bokurano",
+  "medium": "anime",
+  "year": 2007,
+  "wbid": 7,
+  "fsid": 7,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-06",
+   "FS-17",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-SAC",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-19",
+   "WB-31"
+  ],
+  "lesson": "Frame contract mechanics as entropy accounting; concealed costs reveal a deliberately withheld tech tree to the participants themselves.",
+  "batch": 1
+ },
+ {
+  "title": "Now and Then, Here and There",
+  "medium": "anime",
+  "year": 1999,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-11",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-WTR",
+   "SYM-DTH",
+   "SYM-CIV"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-12",
+   "WB-35"
+  ],
+  "lesson": "Water scarcity as a hard entropy clock; stripping technology exposes institutional cruelty as the visible, governing system.",
+  "batch": 1
+ },
+ {
+  "title": "Kemonozume",
+  "medium": "anime",
+  "year": 2006,
+  "wbid": 7,
+  "fsid": 5,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-08",
+   "FS-13",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-FOD",
+   "SYM-EVO"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-18",
+   "WB-32"
+  ],
+  "lesson": "Body-horror biology as an alternative evolutionary branch; appetite and taboo, not machinery, drive the entropy budget.",
+  "batch": 1
+ },
+ {
+  "title": "Ping Pong the Animation",
+  "medium": "anime",
+  "year": 2014,
+  "wbid": 5,
+  "fsid": 6,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-EVO",
+   "SYM-LGT"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-14",
+   "WB-22"
+  ],
+  "lesson": "Anchor cosmic stakes in bodily cost; a broken tech tree needs visible physical limits, not exposition.",
+  "batch": 1
+ },
+ {
+  "title": "Welcome to the N.H.K.",
+  "medium": "anime",
+  "year": 2006,
+  "wbid": 5,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-07",
+   "FS-15"
+  ],
+  "sym": [
+   "SYM-REL",
+   "SYM-SLF",
+   "SYM-OBS"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-11",
+   "WB-27"
+  ],
+  "lesson": "Render universe-scale decay through one isolated mind: scale read as paranoia, never as spectacle.",
+  "batch": 1
+ },
+ {
+  "title": "Revolutionary Girl Utena",
+  "medium": "anime",
+  "year": 1997,
+  "wbid": 8,
+  "fsid": 9,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-06",
+   "FS-13"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-SAC",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-17",
+   "WB-33"
+  ],
+  "lesson": "Ritual repetition with variation teaches reread value; cycles can encode civilisational stagnation without explaining mechanics.",
+  "batch": 1
+ },
+ {
+  "title": "RahXephon",
+  "medium": "anime",
+  "year": 2002,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-09",
+   "FS-14"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-MEM",
+   "SYM-ARC"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-08",
+   "WB-24"
+  ],
+  "lesson": "Layer timelines so early scenes mean differently later; entropy is accumulated versions of one world.",
+  "batch": 1
+ },
+ {
+  "title": "Wolf's Rain OVA",
+  "medium": "anime",
+  "year": 2004,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-12",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-DTH",
+   "SYM-BIR"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-19",
+   "WB-28"
+  ],
+  "lesson": "Leave a dying world's physics implicit; mythic cycles carry entropy better than exposition dumps.",
+  "batch": 1
+ },
+ {
+  "title": "Darker than Black",
+  "medium": "anime",
+  "year": 2007,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-16",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-DRK",
+   "SYM-SAC",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-12",
+   "WB-30"
+  ],
+  "lesson": "Codify a cost for every capability; a broken tech tree reads as consistent rule-price, not arbitrary loss.",
+  "batch": 1
+ },
+ {
+  "title": "Shiki",
+  "medium": "anime",
+  "year": 2010,
+  "wbid": 6,
+  "fsid": 6,
+  "rwid": 6,
+  "symd": 6,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-10",
+   "FS-18"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-REL",
+   "SYM-CIV"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-15",
+   "WB-26"
+  ],
+  "lesson": "Isolation defines a closed system; one village's slow decay models entropy at human scale.",
+  "batch": 1
+ },
+ {
+  "title": "Another",
+  "medium": "anime",
+  "year": 2012,
+  "wbid": 5,
+  "fsid": 8,
+  "rwid": 7,
+  "symd": 6,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-13",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-MEM",
+   "SYM-DSC"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-13",
+   "WB-31"
+  ],
+  "lesson": "Rule-bound curses supply causality; hidden information asymmetry sustains dread across a second pass.",
+  "batch": 1
+ },
+ {
+  "title": "Higurashi When They Cry",
+  "medium": "anime",
+  "year": 2006,
+  "wbid": 8,
+  "fsid": 10,
+  "rwid": 10,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-07",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-LNG",
+   "SYM-BIR",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-20",
+   "WB-35"
+  ],
+  "lesson": "Loop architecture monetises reread value; the same scene under new knowledge reveals systemic cause.",
+  "batch": 1
+ },
+ {
+  "title": "Umineko When They Cry",
+  "medium": "anime",
+  "year": 2009,
+  "wbid": 8,
+  "fsid": 10,
+  "rwid": 10,
+  "symd": 9,
+  "comm": "H",
+  "conf": "B",
+  "fs": [
+   "FS-03",
+   "FS-11",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-LNG",
+   "SYM-KNW",
+   "SYM-DSC"
+  ],
+  "wb": [
+   "WB-16",
+   "WB-25",
+   "WB-36"
+  ],
+  "lesson": "Make interpretation itself the mechanic; a broken tech tree can be an epistemology the audience must rebuild.",
+  "batch": 1
+ },
+ {
+  "title": "Baccano!",
+  "medium": "anime",
+  "year": 2007,
+  "wbid": 8,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 6,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-14",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-ENT",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-18",
+   "WB-32"
+  ],
+  "lesson": "Anachronistic ordering rewards reassembly; non-linear time models entropy as recoverable information rather than loss.",
+  "batch": 1
+ },
+ {
+  "title": "Durarara!!",
+  "medium": "anime",
+  "year": 2010,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 6,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-09",
+   "FS-15",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-INF",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-11",
+   "WB-21",
+   "WB-34"
+  ],
+  "lesson": "Distributed ensembles show a city as a system; no protagonist should own the world's entropy.",
+  "batch": 1
+ },
+ {
+  "title": "Mushishi Zoku Shou",
+  "medium": "anime",
+  "year": 2014,
+  "wbid": 9,
+  "fsid": 5,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-12",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-EVO",
+   "SYM-LGT"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-23",
+   "WB-37"
+  ],
+  "lesson": "Episodic ecology builds worlds by accumulation; entropy needs no villain, only ungovernable life.",
+  "batch": 1
+ },
+ {
+  "title": "Kaiji",
+  "medium": "anime",
+  "year": 2007,
+  "wbid": 5,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-16",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-CLS",
+   "SYM-CTL",
+   "SYM-FOD"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-29",
+   "WB-38"
+  ],
+  "lesson": "Rule-tight games teach systemic cruelty; a rigged economy is a broken tech tree rendered as gambling.",
+  "batch": 1
+ },
+ {
+  "title": "Legend of the Galactic Heroes",
+  "medium": "anime",
+  "year": 1988,
+  "wbid": 10,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-07",
+   "FS-14"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-REL",
+   "SYM-CTL"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-12",
+   "WB-22"
+  ],
+  "lesson": "Scale political entropy across centuries of institutions, not one war; let logistics and decay, not heroes, drive collapse.",
+  "batch": 1
+ },
+ {
+  "title": "Crest of the Stars",
+  "medium": "anime",
+  "year": 1999,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-05",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-LNG",
+   "SYM-CIV",
+   "SYM-ARC"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-15",
+   "WB-27"
+  ],
+  "lesson": "Make language and law the load-bearing worldbuilding: a broken tech tree reads as culture, not as missing research.",
+  "batch": 1
+ },
+ {
+  "title": "Gunbuster",
+  "medium": "anime",
+  "year": 1988,
+  "wbid": 7,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-12",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-ENT",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-18",
+   "WB-30"
+  ],
+  "lesson": "Anchor entropy in relativistic time debt; every technological leap should cost the civilisation something irreversible.",
+  "batch": 1
+ },
+ {
+  "title": "FLCL",
+  "medium": "anime",
+  "year": 2000,
+  "wbid": 6,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-16",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-MCH",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-21",
+   "WB-33"
+  ],
+  "lesson": "Let absurdity carry thermodynamic themes; a broken tech tree may be comic, biological, and deliberately never explained.",
+  "batch": 1
+ },
+ {
+  "title": "Paranoia Agent",
+  "medium": "anime",
+  "year": 2004,
+  "wbid": 6,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-13",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-SDN",
+   "SYM-NOI",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-16",
+   "WB-28"
+  ],
+  "lesson": "Diffuse systemic pressure into apparently unrelated cases, then reveal one shared mechanism generating all of them.",
+  "batch": 1
+ },
+ {
+  "title": "Millennium Actress",
+  "medium": "anime",
+  "year": 2001,
+  "wbid": 5,
+  "fsid": 8,
+  "rwid": 10,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-15",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-TIM",
+   "SYM-ARC"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-19",
+   "WB-31"
+  ],
+  "lesson": "Memory is the rewatch engine: layer eras so a second pass re-reads every earlier frame.",
+  "batch": 1
+ },
+ {
+  "title": "Tokyo Godfathers",
+  "medium": "anime_film",
+  "year": 2003,
+  "wbid": 5,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-09",
+   "FS-17",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-BIR",
+   "SYM-FOD",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-20",
+   "WB-34"
+  ],
+  "lesson": "Small coincidences can model macro entropy: track probability drift across a dense urban system.",
+  "batch": 1
+ },
+ {
+  "title": "Zegapain",
+  "medium": "anime",
+  "year": 2006,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-10",
+   "FS-18",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-MEM",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-23",
+   "WB-35"
+  ],
+  "lesson": "Interrogate the substrate: what a civilisation calls reality may be a maintenance layer of its broken tree.",
+  "batch": 1
+ },
+ {
+  "title": "Noein",
+  "medium": "anime",
+  "year": 2005,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-01",
+   "FS-11",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-OBS",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-24",
+   "WB-36"
+  ],
+  "lesson": "Give entropy a many-worlds formalism, then constrain it with one emotional invariant per branch.",
+  "batch": 1
+ },
+ {
+  "title": "The Big O",
+  "medium": "anime",
+  "year": 1999,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 10,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-14",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-CTL",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-11",
+   "WB-25",
+   "WB-37"
+  ],
+  "lesson": "Use amnesia as worldbuilding: withhold the setting's own history so reconstruction becomes the audience's method.",
+  "batch": 1
+ },
+ {
+  "title": "Boogiepop Phantom",
+  "medium": "anime",
+  "year": 2000,
+  "wbid": 7,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-05",
+   "FS-16",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-NOI",
+   "SYM-DTH",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-13",
+   "WB-26",
+   "WB-38"
+  ],
+  "lesson": "Nonlinear anthology lets a world's entropy surface through rumour, absence, and misremembered causality.",
+  "batch": 1
+ },
+ {
+  "title": "Kara no Kyoukai",
+  "medium": "anime",
+  "year": 2007,
+  "wbid": 7,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "B",
+  "fs": [
+   "FS-07",
+   "FS-19",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-BDY",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-14",
+   "WB-27",
+   "WB-39"
+  ],
+  "lesson": "Fragment chronology deliberately; out-of-order installments let later context rewrite earlier meaning and cost.",
+  "batch": 1
+ },
+ {
+  "title": "Fate/Zero",
+  "medium": "anime",
+  "year": 2011,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-12",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-SAC",
+   "SYM-REL",
+   "SYM-CTL"
+  ],
+  "wb": [
+   "WB-15",
+   "WB-29",
+   "WB-40"
+  ],
+  "lesson": "Give the magic system hard costs so every technological shortcut visibly accelerates systemic decay.",
+  "batch": 1
+ },
+ {
+  "title": "Puella Magi Madoka Magica: Rebellion",
+  "medium": "anime",
+  "year": 2013,
+  "wbid": 7,
+  "fsid": 9,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-13",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-LAB",
+   "SYM-SAC",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-17",
+   "WB-32",
+   "WB-36"
+  ],
+  "lesson": "Interrogate your own premise: let the sequel reframe entropy rules as an architecture imposed by a character.",
+  "batch": 1
+ },
+ {
+  "title": "Yuki Yuna is a Hero",
+  "medium": "anime",
+  "year": 2014,
+  "wbid": 7,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-03",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-SAC",
+   "SYM-ENT",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-14",
+   "WB-22"
+  ],
+  "lesson": "Make the broken tech tree causally load-bearing: its missing inventions, not decoration, should generate the entropy crisis.",
+  "batch": 1
+ },
+ {
+  "title": "Princess Tutu",
+  "medium": "anime",
+  "year": 2002,
+  "wbid": 8,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-02",
+   "FS-09",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-ARC",
+   "SYM-DTH",
+   "SYM-LNG"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-18",
+   "WB-27"
+  ],
+  "lesson": "Let a recursive frame, story authoring story, model entropy as authored decay; recursion gives rereads new structural meaning.",
+  "batch": 1
+ },
+ {
+  "title": "Revue Starlight",
+  "medium": "anime",
+  "year": 2018,
+  "wbid": 6,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-06",
+   "FS-13",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-PRG",
+   "SYM-LGT"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-16",
+   "WB-30"
+  ],
+  "lesson": "Stage recurring ritual duels as measurable thermodynamic costs, so competitive stakes double as an entropy accounting mechanism.",
+  "batch": 1
+ },
+ {
+  "title": "Odd Taxi",
+  "medium": "anime",
+  "year": 2021,
+  "wbid": 6,
+  "fsid": 10,
+  "rwid": 10,
+  "symd": 7,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-12",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-NOI",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-19",
+   "WB-33"
+  ],
+  "lesson": "Withhold one structural fact until late; audience re-parsing makes every earlier scene carry new informational weight.",
+  "batch": 1
+ },
+ {
+  "title": "Ranking of Kings",
+  "medium": "anime",
+  "year": 2021,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-07",
+   "FS-15",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-KNW",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-21",
+   "WB-29"
+  ],
+  "lesson": "Balance a broken tech tree with inherited physical limits, so political weakness and missing science share one cause.",
+  "batch": 1
+ },
+ {
+  "title": "Frieren: Beyond Journey's End",
+  "medium": "anime",
+  "year": 2023,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-10",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-MEM",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-13",
+   "WB-26"
+  ],
+  "lesson": "Let long-lived observers accumulate memory debt; time asymmetry becomes visible only through what a civilisation forgets.",
+  "batch": 1
+ },
+ {
+  "title": "Dungeon Meshi",
+  "medium": "anime",
+  "year": 2024,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-14",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-FOD",
+   "SYM-EVO",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-11",
+   "WB-25"
+  ],
+  "lesson": "Ground entropy in ecology and digestion: resource cycles give a broken tech tree concrete thermodynamic bottlenecks readers can trace.",
+  "batch": 1
+ },
+ {
+  "title": "Jujutsu Kaisen",
+  "medium": "anime",
+  "year": 2020,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 7,
+  "symd": 6,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-16",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-CTL",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-17",
+   "WB-31"
+  ],
+  "lesson": "Define magic as a governed energy budget; explicit rules let entropy costs stay legible instead of becoming narrative noise.",
+  "batch": 1
+ },
+ {
+  "title": "Chainsaw Man",
+  "medium": "anime",
+  "year": 2022,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-18",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-DRK",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-20",
+   "WB-34"
+  ],
+  "lesson": "Make monstrous transformation the visible price of power, turning character arcs into entropy-transfer bookkeeping.",
+  "batch": 1
+ },
+ {
+  "title": "Attack on Titan",
+  "medium": "anime",
+  "year": 2013,
+  "wbid": 10,
+  "fsid": 10,
+  "rwid": 10,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-11",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-ENT",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-15",
+   "WB-28"
+  ],
+  "lesson": "Reveal the setting's history as a compression artifact; layered retcons teach audiences to distrust inherited records.",
+  "batch": 1
+ },
+ {
+  "title": "Fullmetal Alchemist: Brotherhood",
+  "medium": "anime",
+  "year": 2009,
+  "wbid": 9,
+  "fsid": 9,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-13",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-SAC",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-19",
+   "WB-32"
+  ],
+  "lesson": "Equate forbidden technology with thermodynamic debt; the broken tech tree becomes a moral ledger, not arbitrary prohibition.",
+  "batch": 1
+ },
+ {
+  "title": "One Piece",
+  "medium": "anime",
+  "year": 1999,
+  "wbid": 10,
+  "fsid": 10,
+  "rwid": 9,
+  "symd": 7,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-17",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-OCN",
+   "SYM-MEM",
+   "SYM-CIV"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-12",
+   "WB-35"
+  ],
+  "lesson": "Sustain mystery by distributing worldbuilding across decades; unresolved gaps keep theory communities generating interpretive heat.",
+  "batch": 1
+ },
+ {
+  "title": "Death Note",
+  "medium": "anime",
+  "year": 2006,
+  "wbid": 6,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 6,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-09",
+   "FS-15",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-DTH",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-23",
+   "WB-36"
+  ],
+  "lesson": "Model information as a physical resource with strict rules; a broken tech tree can hinge on who controls records.",
+  "batch": 1
+ },
+ {
+  "title": "Monster",
+  "medium": "anime",
+  "year": 2004,
+  "wbid": 6,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-01",
+   "FS-12",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-MEM",
+   "SYM-DRK"
+  ],
+  "wb": [
+   "WB-11",
+   "WB-24",
+   "WB-37"
+  ],
+  "lesson": "Trace systemic harm through bureaucratic chains rather than villains; entropy reads as accumulated institutional failure, not singular intent.",
+  "batch": 1
+ },
+ {
+  "title": "Natsume's Book of Friends",
+  "medium": "anime",
+  "year": 2008,
+  "wbid": 6,
+  "fsid": 5,
+  "rwid": 6,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-MEM",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-12",
+   "WB-23"
+  ],
+  "lesson": "Episodic encounters accumulate into one hidden world; a broken tech tree can hide behind folklore rather than absent knowledge.",
+  "batch": 1
+ },
+ {
+  "title": "Berserk",
+  "medium": "anime",
+  "year": 1997,
+  "wbid": 9,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-08",
+   "FS-15"
+  ],
+  "sym": [
+   "SYM-SAC",
+   "SYM-DRK",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-09",
+   "WB-31"
+  ],
+  "lesson": "Causal loops and eclipse-scale catastrophe frame entropy as moral cost; stagger regression so cause precedes visible consequence.",
+  "batch": 1
+ },
+ {
+  "title": "Claymore",
+  "medium": "anime",
+  "year": 2007,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-03",
+   "FS-12",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-CIV",
+   "SYM-MCH"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-14",
+   "WB-27"
+  ],
+  "lesson": "Reveal true world scale late; a deliberately capped tech tree reads as conspiracy when an institution enforces the limits.",
+  "batch": 1
+ },
+ {
+  "title": "Gantz",
+  "medium": "anime",
+  "year": 2004,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "H",
+  "conf": "B",
+  "fs": [
+   "FS-06",
+   "FS-13",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-SDN",
+   "SYM-CTL"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-18",
+   "WB-34"
+  ],
+  "lesson": "Withhold system rules and scoreboard; entropy mechanics gain weight when physics is inferred only from repeated fatal iteration.",
+  "batch": 1
+ },
+ {
+  "title": "Elfen Lied",
+  "medium": "anime",
+  "year": 2004,
+  "wbid": 6,
+  "fsid": 6,
+  "rwid": 6,
+  "symd": 7,
+  "comm": "H",
+  "conf": "B",
+  "fs": [
+   "FS-05",
+   "FS-16",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-BIR",
+   "SYM-BDY",
+   "SYM-DSC"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-16",
+   "WB-28"
+  ],
+  "lesson": "Split chronology across two species' memories; engineered biological limits act as a broken tech tree with terminal failure built in.",
+  "batch": 1
+ },
+ {
+  "title": "Deadman Wonderland",
+  "medium": "anime",
+  "year": 2011,
+  "wbid": 6,
+  "fsid": 5,
+  "rwid": 6,
+  "symd": 6,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-07",
+   "FS-17",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-CTL",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-19",
+   "WB-35"
+  ],
+  "lesson": "Institutional suppression of knowledge keeps a tech tree pruned; a closed system's decay becomes legible through its own rules.",
+  "batch": 1
+ },
+ {
+  "title": "Tokyo Ghoul",
+  "medium": "anime",
+  "year": 2014,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-09",
+   "FS-18"
+  ],
+  "sym": [
+   "SYM-FOD",
+   "SYM-EVO",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-13",
+   "WB-30"
+  ],
+  "lesson": "Two parallel biologies let each side misread the other's entropy; conceal shared origin until both frameworks collapse together.",
+  "batch": 1
+ },
+ {
+  "title": "Parasyte",
+  "medium": "anime",
+  "year": 2014,
+  "wbid": 7,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-10",
+   "FS-14",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-ENT",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-15",
+   "WB-32"
+  ],
+  "lesson": "Ground cosmic-scale entropy in one body's metabolism; a broken tech tree can be biology refusing to be engineered outward.",
+  "batch": 1
+ },
+ {
+  "title": "Devilman Crybaby",
+  "medium": "anime",
+  "year": 2018,
+  "wbid": 7,
+  "fsid": 7,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-11",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-DRK",
+   "SYM-REL",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-17",
+   "WB-36"
+  ],
+  "lesson": "Accelerate entropy to apocalypse tempo; keep the broken tech tree a moral choice, not a knowledge gap.",
+  "batch": 1
+ },
+ {
+  "title": "Kaiju No. 8",
+  "medium": "anime",
+  "year": 2024,
+  "wbid": 6,
+  "fsid": 5,
+  "rwid": 5,
+  "symd": 5,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-04",
+   "FS-19",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-MCH",
+   "SYM-CIV",
+   "SYM-CLS"
+  ],
+  "wb": [
+   "WB-11",
+   "WB-20",
+   "WB-37"
+  ],
+  "lesson": "Bureaucracy, not physics, gates the tech tree; clearance levels and numbers externalise entropy into administrative bookkeeping.",
+  "batch": 1
+ },
+ {
+  "title": "Made in Abyss",
+  "medium": "manga",
+  "year": 2012,
+  "wbid": 10,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-08",
+   "FS-15"
+  ],
+  "sym": [
+   "SYM-ARC",
+   "SYM-DSC",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-21",
+   "WB-24",
+   "WB-38"
+  ],
+  "lesson": "Layer the world so depth equals entropy; each stratum invalidates prior tech, making regression a structural law.",
+  "batch": 1
+ },
+ {
+  "title": "Land of the Lustrous",
+  "medium": "manga",
+  "year": 2012,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-12",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-MEM",
+   "SYM-EVO"
+  ],
+  "wb": [
+   "WB-22",
+   "WB-25",
+   "WB-39"
+  ],
+  "lesson": "Make bodies the technology; mineral biology caps innovation while entropy manifests as fracture, loss, memory attrition across aeons.",
+  "batch": 1
+ },
+ {
+  "title": "20th Century Boys",
+  "medium": "manga",
+  "year": 1999,
+  "wbid": 8,
+  "fsid": 10,
+  "rwid": 9,
+  "symd": 7,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-05",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-REL",
+   "SYM-FOD"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-15",
+   "WB-28"
+  ],
+  "lesson": "Childhood games as prophecy engine: plant ambiguous childhood artifacts so later reveals reinterpret rather than contradict them.",
+  "batch": 1
+ },
+ {
+  "title": "Monster",
+  "medium": "manga",
+  "year": 1994,
+  "wbid": 7,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-09",
+   "FS-18"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-SLF",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-19",
+   "WB-31"
+  ],
+  "lesson": "Withhold the monster's interior; let institutional records and witnesses carry foreshadowing instead of authorial explanation.",
+  "batch": 1
+ },
+ {
+  "title": "Pluto",
+  "medium": "manga",
+  "year": 2003,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-11",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-MCH",
+   "SYM-DTH",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-13",
+   "WB-26"
+  ],
+  "lesson": "Give robots grief and memory limits: gauge a civilisation's ethics by what its machines are permitted to remember.",
+  "batch": 1
+ },
+ {
+  "title": "Billy Bat",
+  "medium": "manga",
+  "year": 2008,
+  "wbid": 8,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-06",
+   "FS-16",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-LNG",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-21",
+   "WB-33"
+  ],
+  "lesson": "Nested conspiracy narratives need a fixed symbolic anchor so recursive recontextualisation never collapses into incoherence.",
+  "batch": 1
+ },
+ {
+  "title": "Blame!",
+  "medium": "manga",
+  "year": 1997,
+  "wbid": 10,
+  "fsid": 6,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-13",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-ARC",
+   "SYM-INF",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-17",
+   "WB-40"
+  ],
+  "lesson": "Build the megastructure as silent antagonist; let architecture and scale encode entropy without dialogue or exposition.",
+  "batch": 1
+ },
+ {
+  "title": "Nausicaa of the Valley of the Wind",
+  "medium": "manga",
+  "year": 1982,
+  "wbid": 10,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-10",
+   "FS-15",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-EVO",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-12",
+   "WB-23"
+  ],
+  "lesson": "Make ecology the cosmology: a toxic world's slow purification can reframe catastrophe as a system's deliberate phase.",
+  "batch": 1
+ },
+ {
+  "title": "Akira",
+  "medium": "manga",
+  "year": 1982,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-12",
+   "FS-17",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-PRG",
+   "SYM-CTL"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-14",
+   "WB-29"
+  ],
+  "lesson": "Anchor abstract power escalation in ruined urban geography so the audience measures energy against familiar matter.",
+  "batch": 1
+ },
+ {
+  "title": "Uzumaki",
+  "medium": "manga",
+  "year": 1998,
+  "wbid": 7,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-05",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-OBS",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-16",
+   "WB-35"
+  ],
+  "lesson": "One motif, relentlessly recontextualised, can generate entropy horror without any expanding worldbuilding budget.",
+  "batch": 1
+ },
+ {
+  "title": "Dorohedoro",
+  "medium": "manga",
+  "year": 2000,
+  "wbid": 10,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-07",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-MEM",
+   "SYM-CIV"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-18",
+   "WB-30"
+  ],
+  "lesson": "Let two societies share one physics; cultural mismatches in using the same magic expose a fractured technology tree.",
+  "batch": 1
+ },
+ {
+  "title": "The Climber",
+  "medium": "manga",
+  "year": 2007,
+  "wbid": 6,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-03",
+   "FS-11",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-OBS",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-22",
+   "WB-27",
+   "WB-36"
+  ],
+  "lesson": "Scale entropy inward: a lone climber's narrowing world shows systemic decay through diminishing options, not cosmic vistas.",
+  "batch": 1
+ },
+ {
+  "title": "Girls' Last Tour",
+  "medium": "manga",
+  "year": 2014,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-13",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-DTH",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-11",
+   "WB-20",
+   "WB-37"
+  ],
+  "lesson": "Post-climax entropy is cozy: two travellers plus layered ruins convey an ended civilisation without antagonist or exposition.",
+  "batch": 1
+ },
+ {
+  "title": "Chainsaw Man",
+  "medium": "manga",
+  "year": 2018,
+  "wbid": 8,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-14",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-FOD",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-25",
+   "WB-38"
+  ],
+  "lesson": "Tie power to fear and memory erasure; rewriting what exists becomes both mechanic and foreshadowing device.",
+  "batch": 1
+ },
+ {
+  "title": "Attack on Titan",
+  "medium": "manga",
+  "year": 2009,
+  "wbid": 10,
+  "fsid": 10,
+  "rwid": 10,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-15",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-MEM",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-19",
+   "WB-32"
+  ],
+  "lesson": "Seed early panels with world-scale implications; retroactive reframing must reward rereading, not merely reverse prior facts.",
+  "batch": 1
+ },
+ {
+  "title": "One Piece",
+  "medium": "manga",
+  "year": 1997,
+  "wbid": 10,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-05",
+   "FS-12"
+  ],
+  "sym": [
+   "SYM-OCN",
+   "SYM-MEM",
+   "SYM-CIV"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-07",
+   "WB-15"
+  ],
+  "lesson": "Plant load-bearing mysteries early; make inherited ruins the reason current technology cannot simply advance.",
+  "batch": 1
+ },
+ {
+  "title": "Fullmetal Alchemist",
+  "medium": "manga",
+  "year": 2001,
+  "wbid": 9,
+  "fsid": 10,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-08",
+   "FS-14"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-BDY",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-11",
+   "WB-22"
+  ],
+  "lesson": "Define world physics as a closed ledger: every gain debits something, so a broken tech tree reads as law.",
+  "batch": 1
+ },
+ {
+  "title": "Fire Punch",
+  "medium": "manga",
+  "year": 2016,
+  "wbid": 7,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-03",
+   "FS-09",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-FIR",
+   "SYM-ENT",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-13",
+   "WB-26"
+  ],
+  "lesson": "Render entropy as endless frozen duration; let myth mutate faster than a stalled world's technology.",
+  "batch": 1
+ },
+ {
+  "title": "Goodnight Punpun",
+  "medium": "manga",
+  "year": 2007,
+  "wbid": 4,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-DRK",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-18",
+   "WB-30"
+  ],
+  "lesson": "Symbolic doubles let an ordinary setting carry cosmic decay without ever depicting a cosmos.",
+  "batch": 1
+ },
+ {
+  "title": "Berserk",
+  "medium": "manga",
+  "year": 1989,
+  "wbid": 9,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-13",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-DRK",
+   "SYM-SAC",
+   "SYM-EVO"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-09",
+   "WB-19"
+  ],
+  "lesson": "Layer causal strata: earlier ages recontextualise present tools, making regression an in-world fact.",
+  "batch": 1
+ },
+ {
+  "title": "Vagabond",
+  "medium": "manga",
+  "year": 1998,
+  "wbid": 5,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-07",
+   "FS-15",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-GRD",
+   "SYM-LAB"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-16",
+   "WB-27"
+  ],
+  "lesson": "Strip cosmology to weather, grain and bodies; universe scale reads through labour, not spectacle.",
+  "batch": 1
+ },
+ {
+  "title": "Vinland Saga",
+  "medium": "manga",
+  "year": 2005,
+  "wbid": 7,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-16",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-WTR",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-20",
+   "WB-31"
+  ],
+  "lesson": "Let ideology shape the tech tree: what a civilisation refuses to build defines it more than capacity.",
+  "batch": 1
+ },
+ {
+  "title": "Hellsing",
+  "medium": "manga",
+  "year": 1997,
+  "wbid": 6,
+  "fsid": 5,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-10",
+   "FS-18",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-CTL",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-21",
+   "WB-33"
+  ],
+  "lesson": "Institutional secrecy is a deliberate block on diffusion; hoarded knowledge freezes technological progress.",
+  "batch": 1
+ },
+ {
+  "title": "Gantz",
+  "medium": "manga",
+  "year": 2000,
+  "wbid": 7,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-11",
+   "FS-19",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-MCH",
+   "SYM-DTH",
+   "SYM-OBS"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-23",
+   "WB-34"
+  ],
+  "lesson": "Withhold tool provenance: opaque instruments sustain reread value and keep entropy claims unfalsifiable.",
+  "batch": 1
+ },
+ {
+  "title": "Biomega",
+  "medium": "manga",
+  "year": 2004,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-12",
+   "FS-20",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-DIS",
+   "SYM-EXP",
+   "SYM-MCH"
+  ],
+  "wb": [
+   "WB-14",
+   "WB-24",
+   "WB-35"
+  ],
+  "lesson": "Megastructure ruins imply an entropy history never narrated; scale does the worldbuilding silently.",
+  "batch": 1
+ },
+ {
+  "title": "Knights of Sidonia",
+  "medium": "manga",
+  "year": 2009,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-13",
+   "FS-17",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-BIR",
+   "SYM-TEC"
+  ],
+  "wb": [
+   "WB-17",
+   "WB-25",
+   "WB-36"
+  ],
+  "lesson": "Closed-ship ecology enforces entropy through resource budgets, grounding why the tech tree stays broken.",
+  "batch": 1
+ },
+ {
+  "title": "Aposimz",
+  "medium": "manga",
+  "year": 2017,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-14",
+   "FS-18",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-TEC",
+   "SYM-CLS",
+   "SYM-DSC"
+  ],
+  "wb": [
+   "WB-28",
+   "WB-37",
+   "WB-39"
+  ],
+  "lesson": "Make substrate physics the constraint: a coded artificial world yields a broken tech tree by design.",
+  "batch": 1
+ },
+ {
+  "title": "Sun-Ken Rock",
+  "medium": "manga",
+  "year": 2006,
+  "wbid": 5,
+  "fsid": 5,
+  "rwid": 6,
+  "symd": 6,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-15",
+   "FS-21",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-CTL",
+   "SYM-CLS"
+  ],
+  "wb": [
+   "WB-29",
+   "WB-32",
+   "WB-38"
+  ],
+  "lesson": "Keep stakes ground-scale: low-tech governance by force prevents unearned entropy inflation.",
+  "batch": 1
+ },
+ {
+  "title": "Homunculus",
+  "medium": "manga",
+  "year": 2003,
+  "wbid": 5,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-16",
+   "FS-22",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-OBS",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-27",
+   "WB-38",
+   "WB-40"
+  ],
+  "lesson": "Perception is the entropy interface: what a mind cannot symbolise, it cannot build or repair.",
+  "batch": 1
+ },
+ {
+  "title": "Ichi the Killer",
+  "medium": "manga",
+  "year": 1998,
+  "wbid": 3,
+  "fsid": 5,
+  "rwid": 6,
+  "symd": 7,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-17",
+   "FS-20",
+   "FS-03"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-SLF",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-31",
+   "WB-28"
+  ],
+  "lesson": "Localize a broken technology inside one engineered body; let pathology carry causality so world-scale entropy stays implied, never explained.",
+  "batch": 1
+ },
+ {
+  "title": "Abara",
+  "medium": "manga",
+  "year": 2005,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-01",
+   "FS-07",
+   "FS-15"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-ARC",
+   "SYM-EVO"
+  ],
+  "wb": [
+   "WB-32",
+   "WB-06",
+   "WB-24"
+  ],
+  "lesson": "Let architecture and biology share one grammar so structural decay doubles as entropy and the broken tech tree needs no exposition.",
+  "batch": 1
+ },
+ {
+  "title": "Kokou no Hito",
+  "medium": "manga",
+  "year": 2007,
+  "wbid": 4,
+  "fsid": 5,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-05",
+   "FS-09",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-SLF",
+   "SYM-OBS"
+  ],
+  "wb": [
+   "WB-37",
+   "WB-24",
+   "WB-36"
+  ],
+  "lesson": "Scale one actor against an indifferent environment; entropy reads as altitude, and absent technologies register as the impossibility of rescue.",
+  "batch": 1
+ },
+ {
+  "title": "Real",
+  "medium": "manga",
+  "year": 1999,
+  "wbid": 4,
+  "fsid": 4,
+  "rwid": 6,
+  "symd": 6,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-17",
+   "FS-05",
+   "FS-11"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-SLF",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-16",
+   "WB-28",
+   "WB-12"
+  ],
+  "lesson": "Ground a broken tech tree in rehabilitation logistics; missing capability is routine, not spectacle, so the audience infers the world.",
+  "batch": 1
+ },
+ {
+  "title": "Slam Dunk",
+  "medium": "manga",
+  "year": 1990,
+  "wbid": 2,
+  "fsid": 3,
+  "rwid": 5,
+  "symd": 4,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-10",
+   "FS-11"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-LAB",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-13",
+   "WB-38"
+  ],
+  "lesson": "Build the world through routine and craft specificity; scarcity of means teaches a crippled tech base better than exposition.",
+  "batch": 1
+ },
+ {
+  "title": "Oyasumi Punpun",
+  "medium": "manga",
+  "year": 2007,
+  "wbid": 5,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-20",
+   "FS-09"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-SLF",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-19",
+   "WB-31",
+   "WB-13"
+  ],
+  "lesson": "Encode cosmic decay in a private symbol system; a broken inner world model can carry entropy without ever explaining physics.",
+  "batch": 1
+ },
+ {
+  "title": "Nijigahara Holograph",
+  "medium": "manga",
+  "year": 2003,
+  "wbid": 4,
+  "fsid": 10,
+  "rwid": 10,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-05",
+   "FS-20",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-MEM",
+   "SYM-DRK"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-21",
+   "WB-33"
+  ],
+  "lesson": "Withhold sequence, not facts; temporal scrambling forces rereaders to reconstruct causality, the cheapest engine of deep-time dread.",
+  "batch": 1
+ },
+ {
+  "title": "Solanin",
+  "medium": "manga",
+  "year": 2005,
+  "wbid": 3,
+  "fsid": 5,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-11",
+   "FS-16"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-MEM",
+   "SYM-LAB"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-38",
+   "WB-28"
+  ],
+  "lesson": "Let entropy arrive as ordinary career drift; small-scale decay normalizes larger collapse and needs no apocalyptic set piece.",
+  "batch": 1
+ },
+ {
+  "title": "Dead Dead Demon's Dededede Destruction",
+  "medium": "manga",
+  "year": 2014,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-21",
+   "FS-26",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-ENT",
+   "SYM-EXP"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-28",
+   "WB-24"
+  ],
+  "lesson": "Render apocalypse through bureaucracy and media noise; scale contrast with institutional inertia makes civilizational entropy feel administratively mundane.",
+  "batch": 1
+ },
+ {
+  "title": "Asano Inio: Downfall",
+  "medium": "manga",
+  "year": 2015,
+  "wbid": 3,
+  "fsid": 5,
+  "rwid": 6,
+  "symd": 7,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-20",
+   "FS-05",
+   "FS-11"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-ENT",
+   "SYM-CTL"
+  ],
+  "wb": [
+   "WB-31",
+   "WB-12",
+   "WB-13"
+  ],
+  "lesson": "Keep the broken system offstage; one collapsed career can index civilizational entropy better than any lore dump.",
+  "batch": 1
+ },
+ {
+  "title": "Urasawa: Asadora!",
+  "medium": "manga",
+  "year": 2018,
+  "wbid": 7,
+  "fsid": 7,
+  "rwid": 7,
+  "symd": 6,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-02",
+   "FS-06",
+   "FS-12"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-MEM",
+   "SYM-OCN"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-23",
+   "WB-28"
+  ],
+  "lesson": "Interleave postwar material history with an unexplained anomaly; delayed explanation lets missing technologies read as historical amnesia.",
+  "batch": 1
+ },
+ {
+  "title": "Tezuka: Phoenix",
+  "medium": "manga",
+  "year": 1967,
+  "wbid": 9,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-25",
+   "FS-05",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-DTH",
+   "SYM-EVO"
+  ],
+  "wb": [
+   "WB-33",
+   "WB-40",
+   "WB-25"
+  ],
+  "lesson": "Make recurrence the cosmology: cyclical eras let entropy and immortality coexist, and each broken tech tree comments on the previous one.",
+  "batch": 1
+ },
+ {
+  "title": "Tezuka: Buddha",
+  "medium": "manga",
+  "year": 1972,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-25",
+   "FS-24",
+   "FS-04"
+  ],
+  "sym": [
+   "SYM-REL",
+   "SYM-CLS",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-29",
+   "WB-17",
+   "WB-40"
+  ],
+  "lesson": "Let ritual substitute for missing infrastructure; a broken tech tree stays believable when ceremony is the only reliable machinery.",
+  "batch": 1
+ },
+ {
+  "title": "Mushishi",
+  "medium": "manga",
+  "year": 1999,
+  "wbid": 9,
+  "fsid": 4,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-21",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-INF",
+   "SYM-ENT",
+   "SYM-DIS"
+  ],
+  "wb": [
+   "WB-26",
+   "WB-19",
+   "WB-12"
+  ],
+  "lesson": "Design a non-human ecology with consistent rules then never catalogue it; partial knowledge keeps wonder and entropy coupled.",
+  "batch": 1
+ },
+ {
+  "title": "Yokohama Kaidashi Kikou",
+  "medium": "manga",
+  "year": 1994,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-22",
+   "FS-01",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-OCN",
+   "SYM-GRD"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-25",
+   "WB-37"
+  ],
+  "lesson": "Let entropy be ambient, not apocalyptic: measure decline through small routines and seasonal artifacts so scale arrives without exposition.",
+  "batch": 1
+ },
+ {
+  "title": "Blame! Master's Edition",
+  "medium": "manga",
+  "year": 1997,
+  "wbid": 10,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-15",
+   "FS-19",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-ARC",
+   "SYM-ENT",
+   "SYM-MCH"
+  ],
+  "wb": [
+   "WB-24",
+   "WB-06",
+   "WB-19"
+  ],
+  "lesson": "Build scale from architecture and absent explanation; a megastructure implies its own history, letting a broken tech tree stay illegible yet consistent.",
+  "batch": 1
+ },
+ {
+  "title": "Gunnm (Battle Angel Alita)",
+  "medium": "manga",
+  "year": 1990,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-23",
+   "FS-12"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-MCH",
+   "SYM-CLS"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-10",
+   "WB-39"
+  ],
+  "lesson": "Show a broken tech tree through salvage: characters wield relics they cannot reproduce, making cost structure the world's central physics.",
+  "batch": 1
+ },
+ {
+  "title": "Ghost in the Shell (manga)",
+  "medium": "manga",
+  "year": 1989,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-11",
+   "FS-02",
+   "FS-14"
+  ],
+  "sym": [
+   "SYM-INF",
+   "SYM-SLF",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-19",
+   "WB-35"
+  ],
+  "lesson": "Keep the substrate unexplained; characters debate interfaces rather than foundations, so black-box technology yields endless re-reading and theory.",
+  "batch": 1
+ },
+ {
+  "title": "Domu",
+  "medium": "manga",
+  "year": 1980,
+  "wbid": 5,
+  "fsid": 7,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-05",
+   "FS-20",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-SLF",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-28",
+   "WB-38"
+  ],
+  "lesson": "Confine a broken tech tree to one institution's paperwork and architecture; bureaucratic inertia explains why capability never propagates.",
+  "batch": 1
+ },
+ {
+  "title": "Nausicaa (manga)",
+  "medium": "manga",
+  "year": 1982,
+  "wbid": 10,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-25",
+   "FS-01"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-ENT",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-26",
+   "WB-32",
+   "WB-29"
+  ],
+  "lesson": "Make ecology the engine of entropy; a world-organism that rewrites its own biology justifies a permanently truncated technology tree.",
+  "batch": 1
+ },
+ {
+  "title": "Tomie",
+  "medium": "manga",
+  "year": 1987,
+  "wbid": 5,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-20",
+   "FS-11"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-BIR",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-33",
+   "WB-40",
+   "WB-31"
+  ],
+  "lesson": "Repeat one motif until recurrence itself becomes cosmology; cyclic return replaces technological progress as the world's only operating law.",
+  "batch": 1
+ },
+ {
+  "title": "Gyo",
+  "medium": "manga",
+  "year": 2001,
+  "wbid": 6,
+  "fsid": 5,
+  "rwid": 6,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-07",
+   "FS-01",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-DIS",
+   "SYM-MCH",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-26",
+   "WB-07",
+   "WB-16"
+  ],
+  "lesson": "Weaponised biology from an old war: let forgotten military research, never fresh invention, drive catastrophe and keep capability backward.",
+  "batch": 1
+ },
+ {
+  "title": "Remina",
+  "medium": "manga",
+  "year": 2004,
+  "wbid": 6,
+  "fsid": 5,
+  "rwid": 6,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-26",
+   "FS-21",
+   "FS-05"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-OBS",
+   "SYM-SDN"
+  ],
+  "wb": [
+   "WB-24",
+   "WB-36",
+   "WB-02"
+  ],
+  "lesson": "Contrast galactic scale with petty institutions; humanity's instruments fail because the threat operates outside any usable measurement frame.",
+  "batch": 1
+ },
+ {
+  "title": "Sensor",
+  "medium": "manga",
+  "year": 2018,
+  "wbid": 6,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-24",
+   "FS-08",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-LGT",
+   "SYM-REL",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-29",
+   "WB-32",
+   "WB-25"
+  ],
+  "lesson": "Ground cosmology in ritual and volcanic landscape; a broken tech tree then reads as deliberate taboo rather than simple ignorance.",
+  "batch": 1
+ },
+ {
+  "title": "Black Paradox",
+  "medium": "manga",
+  "year": 2009,
+  "wbid": 5,
+  "fsid": 5,
+  "rwid": 6,
+  "symd": 8,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-07",
+   "FS-08",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-SLF",
+   "SYM-SDN"
+  ],
+  "wb": [
+   "WB-34",
+   "WB-20",
+   "WB-31"
+  ],
+  "lesson": "Parallel selves as entropy accounting: each duplicate splits identity, letting metaphysics carry the plot without any new technology.",
+  "batch": 1
+ },
+ {
+  "title": "2001: A Space Odyssey",
+  "medium": "film",
+  "year": 1968,
+  "wbid": 9,
+  "fsid": 9,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-09",
+   "FS-12",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-MCH",
+   "SYM-BIR"
+  ],
+  "wb": [
+   "WB-25",
+   "WB-10",
+   "WB-19"
+  ],
+  "lesson": "Withhold interiority; align visual scale with deep time so the viewer assembles entropy's meaning across repeated viewings.",
+  "batch": 1
+ },
+ {
+  "title": "Solaris",
+  "medium": "film",
+  "year": 1972,
+  "wbid": 6,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-20",
+   "FS-05",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-OCN",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-20",
+   "WB-19",
+   "WB-10"
+  ],
+  "lesson": "An unknowable planet mirrors memory; refuse to resolve the mechanism, keeping observers and their instruments permanently inadequate.",
+  "batch": 1
+ },
+ {
+  "title": "Stalker",
+  "medium": "film",
+  "year": 1979,
+  "wbid": 7,
+  "fsid": 7,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-18",
+   "FS-01",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-KNW",
+   "SYM-WTR",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-04",
+   "WB-29"
+  ],
+  "lesson": "Make technology fail inside a zone; ritual, maps and taboo replace instruments, explaining why a civilisation stopped advancing.",
+  "batch": 1
+ },
+ {
+  "title": "Arrival",
+  "medium": "film",
+  "year": 2016,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-04",
+   "FS-09"
+  ],
+  "sym": [
+   "SYM-LNG",
+   "SYM-TIM",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-11",
+   "WB-24"
+  ],
+  "lesson": "Nonlinear causality lets early scenes double as later revelations; braid entropy narrative so every flashback pays off.",
+  "batch": 1
+ },
+ {
+  "title": "Annihilation",
+  "medium": "film",
+  "year": 2018,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-07",
+   "FS-13"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-DSC",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-17",
+   "WB-28"
+  ],
+  "lesson": "Design a zone where mutation rules are consistent but opaque; broken tech can be biology rewriting itself.",
+  "batch": 1
+ },
+ {
+  "title": "Interstellar",
+  "medium": "film",
+  "year": 2014,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-10",
+   "FS-15"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-GRD",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-13",
+   "WB-30"
+  ],
+  "lesson": "Anchor entropy at civilisational scale via decayed institutions; let a stunted tech tree constrain plot, not decorate it.",
+  "batch": 1
+ },
+ {
+  "title": "The Matrix",
+  "medium": "film",
+  "year": 1999,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-05",
+   "FS-11"
+  ],
+  "sym": [
+   "SYM-MCH",
+   "SYM-CTL",
+   "SYM-EXP"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-08",
+   "WB-21"
+  ],
+  "lesson": "Layer a false reality so rewatch exposes the seams; institutional control explains why the tech tree is capped.",
+  "batch": 1
+ },
+ {
+  "title": "Blade Runner",
+  "medium": "film",
+  "year": 1982,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-12",
+   "FS-16"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-BIR",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-14",
+   "WB-26"
+  ],
+  "lesson": "Build density from texture and implication; ambiguous evidence makes a second viewing reinterpret every prior scene.",
+  "batch": 1
+ },
+ {
+  "title": "Blade Runner 2049",
+  "medium": "film",
+  "year": 2017,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-14",
+   "FS-18"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-BIR",
+   "SYM-CLS"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-19",
+   "WB-31"
+  ],
+  "lesson": "Sequel foreshadowing: replant prior imagery so old symbols acquire inverted meaning under a new entropic order.",
+  "batch": 1
+ },
+ {
+  "title": "Children of Men",
+  "medium": "film",
+  "year": 2006,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-09",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-BIR",
+   "SYM-CIV",
+   "SYM-DSC"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-16",
+   "WB-27"
+  ],
+  "lesson": "Render slow civilisational entropy through background detail; a dead-end tech tree reads as believable stagnation.",
+  "batch": 1
+ },
+ {
+  "title": "The Fountain",
+  "medium": "film",
+  "year": 2006,
+  "wbid": 7,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-TIM",
+   "SYM-BIR"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-20",
+   "WB-33"
+  ],
+  "lesson": "Recursive tripartite structure lets motif repetition substitute for exposition; entropy becomes a personal-scale cycle.",
+  "batch": 1
+ },
+ {
+  "title": "The Tree of Life",
+  "medium": "film",
+  "year": 2011,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 10,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-13",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-BIR",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-22",
+   "WB-35"
+  ],
+  "lesson": "Scale-jump montage connects cosmic entropy to domestic memory; symbol carries structure where plot cannot.",
+  "batch": 1
+ },
+ {
+  "title": "Under the Skin",
+  "medium": "film",
+  "year": 2013,
+  "wbid": 6,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-05",
+   "FS-15",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-OBS",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-11",
+   "WB-23",
+   "WB-36"
+  ],
+  "lesson": "Withhold interiority; let unexplained technology imply a larger world whose rules the audience must infer.",
+  "batch": 1
+ },
+ {
+  "title": "The Lighthouse",
+  "medium": "film",
+  "year": 2019,
+  "wbid": 6,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 10,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-17",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-LGT",
+   "SYM-DRK",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-25",
+   "WB-37"
+  ],
+  "lesson": "Compress worldbuilding to one isolated node; mythic ambiguity multiplies reread value without adding lore.",
+  "batch": 1
+ },
+ {
+  "title": "The Northman",
+  "medium": "film",
+  "year": 2022,
+  "wbid": 7,
+  "fsid": 7,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-18",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-REL",
+   "SYM-DTH",
+   "SYM-EVO"
+  ],
+  "wb": [
+   "WB-15",
+   "WB-29",
+   "WB-38"
+  ],
+  "lesson": "Ground mythic causality in ritual detail; fate as a system lets foreshadowing operate deterministically.",
+  "batch": 1
+ },
+ {
+  "title": "Nope",
+  "medium": "film",
+  "year": 2022,
+  "wbid": 7,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-20",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-OBS",
+   "SYM-EXP",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-18",
+   "WB-32",
+   "WB-39"
+  ],
+  "lesson": "Treat spectacle as an extractive system; earlier training details recontextualise the final mechanism.",
+  "batch": 1
+ },
+ {
+  "title": "Get Out",
+  "medium": "film",
+  "year": 2017,
+  "wbid": 6,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-10",
+   "FS-19",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-BDY",
+   "SYM-CLS"
+  ],
+  "wb": [
+   "WB-24",
+   "WB-34",
+   "WB-40"
+  ],
+  "lesson": "Plant innocuous early cues that invert on rewatch; a hidden social mechanism explains the capped tech.",
+  "batch": 1
+ },
+ {
+  "title": "Us",
+  "medium": "film",
+  "year": 2019,
+  "wbid": 7,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-CLS",
+   "SYM-DSC"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-14",
+   "WB-22"
+  ],
+  "lesson": "Doubles literalize suppressed subsystems; let a broken tech tree's discarded branches return as the entropy project's own antagonists.",
+  "batch": 1
+ },
+ {
+  "title": "Everything Everywhere All at Once",
+  "medium": "film",
+  "year": 2022,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-09",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-INF",
+   "SYM-MEM",
+   "SYM-BIR"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-18",
+   "WB-31"
+  ],
+  "lesson": "Model entropy as branching possibility space; a broken tech tree matters only when characters choose among branches emotionally.",
+  "batch": 1
+ },
+ {
+  "title": "The Truman Show",
+  "medium": "film",
+  "year": 1998,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-13",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-OBS",
+   "SYM-WTR"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-11",
+   "WB-27"
+  ],
+  "lesson": "Design a world whose weather, routines and economy are authored constraints; entropy reads as scripted decay once the frame breaks.",
+  "batch": 1
+ },
+ {
+  "title": "The Prestige",
+  "medium": "film",
+  "year": 2006,
+  "wbid": 6,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-10",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-SAC",
+   "SYM-OBS"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-20",
+   "WB-35"
+  ],
+  "lesson": "Foreshadowing by doubling: every trick shown early must re-read as sacrifice; cracked tech trees hide their cost in plain sight.",
+  "batch": 1
+ },
+ {
+  "title": "Memento",
+  "medium": "film",
+  "year": 2000,
+  "wbid": 5,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 7,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-12",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-LAB",
+   "SYM-TIM"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-16",
+   "WB-29"
+  ],
+  "lesson": "Reverse causality chains let entropy be felt as memory loss; broken tech trees require prosthetic archives to function at all.",
+  "batch": 1
+ },
+ {
+  "title": "Primer",
+  "medium": "film",
+  "year": 2004,
+  "wbid": 8,
+  "fsid": 9,
+  "rwid": 10,
+  "symd": 6,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-15",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-MCH",
+   "SYM-TEC"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-24",
+   "WB-38"
+  ],
+  "lesson": "Withhold mechanism, not consequence; time-loop entropy works when audiences reconstruct the broken tech tree from contradictory evidence.",
+  "batch": 1
+ },
+ {
+  "title": "Coherence",
+  "medium": "film",
+  "year": 2013,
+  "wbid": 6,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 6,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-14",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-SLF",
+   "SYM-NOI"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-19",
+   "WB-33"
+  ],
+  "lesson": "Cheap production still generates infinite worlds; use decoherence as both physics and social collapse for entropy-scale stakes.",
+  "batch": 1
+ },
+ {
+  "title": "Ex Machina",
+  "medium": "film",
+  "year": 2014,
+  "wbid": 6,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-16",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-MCH",
+   "SYM-CTL",
+   "SYM-EXP"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-13",
+   "WB-30"
+  ],
+  "lesson": "Embed the broken tech tree in one sealed lab; entropy is measured by what the created mind escapes and leaves behind.",
+  "batch": 1
+ },
+ {
+  "title": "Her",
+  "medium": "film",
+  "year": 2013,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-18",
+   "FS-26",
+   "FS-11"
+  ],
+  "sym": [
+   "SYM-LNG",
+   "SYM-REL",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-21",
+   "WB-34"
+  ],
+  "lesson": "Give the ascending intelligence an ordinary interface; entropy becomes intimacy lost, not spectacle, while tech-tree gaps stay felt.",
+  "batch": 1
+ },
+ {
+  "title": "The Thing",
+  "medium": "film",
+  "year": 1982,
+  "wbid": 6,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-12",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-SLF",
+   "SYM-DIS"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-15",
+   "WB-28"
+  ],
+  "lesson": "Assimilation as entropy: identity is the conserved quantity; a broken biotech tree makes every cell an unreliable narrator.",
+  "batch": 1
+ },
+ {
+  "title": "Alien",
+  "medium": "film",
+  "year": 1979,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-13",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-BIR",
+   "SYM-BDY",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-17",
+   "WB-36"
+  ],
+  "lesson": "Industrial decay plus corporate secrecy sells cosmic entropy; the broken tech tree is mundane, used and indifferent to its crew.",
+  "batch": 1
+ },
+ {
+  "title": "The Fly",
+  "medium": "film",
+  "year": 1986,
+  "wbid": 5,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-19",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-EVO",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-23",
+   "WB-37"
+  ],
+  "lesson": "Make the broken tech tree personal: teleportation failure converts the inventor's own body into the entropy ledger.",
+  "batch": 1
+ },
+ {
+  "title": "Pan's Labyrinth",
+  "medium": "film",
+  "year": 2006,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-09",
+   "FS-17",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-FOD",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-26",
+   "WB-39"
+  ],
+  "lesson": "Layer myth over fascist decay; entropy reads through a child's rules, and a broken magic tree is still bound by sacrifice.",
+  "batch": 1
+ },
+ {
+  "title": "The Green Knight",
+  "medium": "film",
+  "year": 2021,
+  "wbid": 7,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-10",
+   "FS-18",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-GRD",
+   "SYM-DTH",
+   "SYM-ARC"
+  ],
+  "wb": [
+   "WB-25",
+   "WB-32",
+   "WB-40"
+  ],
+  "lesson": "Entropy as deferred deadline; green things decay and return, so a broken chivalric tech tree must trade certainty for games.",
+  "batch": 1
+ },
+ {
+  "title": "Mad Max: Fury Road",
+  "medium": "film",
+  "year": 2015,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-10",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-WTR",
+   "SYM-DTH",
+   "SYM-BIR"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-11",
+   "WB-24"
+  ],
+  "lesson": "Embed ecology and scarcity in props and rituals; world rules land harder when shown as resource logistics than exposition.",
+  "batch": 1
+ },
+ {
+  "title": "WALL-E",
+  "medium": "film",
+  "year": 2008,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-07",
+   "FS-18"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-WTR",
+   "SYM-MCH"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-12",
+   "WB-30"
+  ],
+  "lesson": "Make entropy visible as accumulated junk; a broken tech tree reads clearly when its debris is the set.",
+  "batch": 1
+ },
+ {
+  "title": "Spirited Away",
+  "medium": "film",
+  "year": 2001,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-15",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-LNG",
+   "SYM-MEM",
+   "SYM-LAB"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-13",
+   "WB-26"
+  ],
+  "lesson": "Give the alien world explicit transaction rules; naming and contract mechanics can carry both theme and internal consistency.",
+  "batch": 1
+ },
+ {
+  "title": "Fantastic Planet",
+  "medium": "film",
+  "year": 1973,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-08",
+   "FS-16",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-CLS",
+   "SYM-CTL"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-17",
+   "WB-31"
+  ],
+  "lesson": "Shift scale to defamiliarise hierarchy; domestication and pest-control framing makes a broken tech tree feel biological.",
+  "batch": 1
+ },
+ {
+  "title": "Metropolis",
+  "medium": "film",
+  "year": 1927,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-12",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-CLS",
+   "SYM-MCH",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-15",
+   "WB-22"
+  ],
+  "lesson": "Stratify the world vertically; architecture that encodes class lets machinery and myth share one symbolic register.",
+  "batch": 1
+ },
+ {
+  "title": "Solaris (2002)",
+  "medium": "film",
+  "year": 2002,
+  "wbid": 6,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-03",
+   "FS-14",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-OCN",
+   "SYM-MEM",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-19",
+   "WB-33"
+  ],
+  "lesson": "Let the anomaly stay illegible; unresolved world-rules generate meaning without requiring a full explanatory system.",
+  "batch": 1
+ },
+ {
+  "title": "2010: The Year We Make Contact",
+  "medium": "film",
+  "year": 1984,
+  "wbid": 7,
+  "fsid": 7,
+  "rwid": 6,
+  "symd": 7,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-01",
+   "FS-11",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-INF",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-14",
+   "WB-29"
+  ],
+  "lesson": "Retrofit answers onto a deliberately ambiguous predecessor sparingly; closure trades mystery for continuity across a sequence.",
+  "batch": 1
+ },
+ {
+  "title": "Silent Running",
+  "medium": "film",
+  "year": 1972,
+  "wbid": 7,
+  "fsid": 5,
+  "rwid": 6,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-09",
+   "FS-17",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-18",
+   "WB-27"
+  ],
+  "lesson": "Preserve one curated biosphere as a relic; a single surviving archive dramatises entropy better than a broad survey.",
+  "batch": 1
+ },
+ {
+  "title": "Soylent Green",
+  "medium": "film",
+  "year": 1973,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 6,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-13",
+   "FS-21",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-FOD",
+   "SYM-CLS",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-16",
+   "WB-28"
+  ],
+  "lesson": "Ground collapse in food supply chains; scarcity economics makes a stalled civilisation legible through ordinary consumption.",
+  "batch": 1
+ },
+ {
+  "title": "Logan's Run",
+  "medium": "film",
+  "year": 1976,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 6,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-18",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-CTL",
+   "SYM-BIR"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-20",
+   "WB-32"
+  ],
+  "lesson": "Encode a civilisational taboo in ritual and infrastructure; a fixed lifespan becomes a worldbuilding constraint with teeth.",
+  "batch": 1
+ },
+ {
+  "title": "THX 1138",
+  "medium": "film",
+  "year": 1971,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-02",
+   "FS-16",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-DSC",
+   "SYM-LAB"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-21",
+   "WB-34"
+  ],
+  "lesson": "Design the state as surveillance infrastructure rather than villainy; control expressed spatially needs no exposition to read.",
+  "batch": 1
+ },
+ {
+  "title": "Brazil",
+  "medium": "film",
+  "year": 1985,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-19",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-DIS",
+   "SYM-MCH"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-23",
+   "WB-35"
+  ],
+  "lesson": "Bureaucratic ductwork can be a tech tree's visible skeleton; administrative absurdity models systemic decay without a lecture.",
+  "batch": 1
+ },
+ {
+  "title": "12 Monkeys",
+  "medium": "film",
+  "year": 1995,
+  "wbid": 7,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-14",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-MEM",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-25",
+   "WB-36"
+  ],
+  "lesson": "Plant causal fragments early so later reframing pays them off; loop structure rewards a second pass without new material.",
+  "batch": 1
+ },
+ {
+  "title": "Dark City",
+  "medium": "film",
+  "year": 1998,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-15",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-SLF",
+   "SYM-CTL"
+  ],
+  "wb": [
+   "WB-11",
+   "WB-26",
+   "WB-37"
+  ],
+  "lesson": "Make memory the substrate of reality; manipulated identity lets a world rewrite itself and rewards forensic rewatching.",
+  "batch": 1
+ },
+ {
+  "title": "eXistenZ",
+  "medium": "film",
+  "year": 1999,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-TEC",
+   "SYM-BDY",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-12",
+   "WB-24"
+  ],
+  "lesson": "Layer the artificial world's rules into props and interfaces so late reveals reread earlier texture rather than contradict it.",
+  "batch": 2
+ },
+ {
+  "title": "Videodrome",
+  "medium": "film",
+  "year": 1983,
+  "wbid": 7,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-14",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-MEM",
+   "SYM-CTL"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-18",
+   "WB-31"
+  ],
+  "lesson": "Make the medium itself a worldbuilding element; signal entropy becomes body horror instead of exposition.",
+  "batch": 2
+ },
+ {
+  "title": "The Brood",
+  "medium": "film",
+  "year": 1979,
+  "wbid": 6,
+  "fsid": 6,
+  "rwid": 6,
+  "symd": 7,
+  "comm": "L",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-16",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-BIR",
+   "SYM-REL",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-15",
+   "WB-27"
+  ],
+  "lesson": "Anchor an invented mechanism in one clinical institution; a single disciplined rule-set beats sprawling lore.",
+  "batch": 2
+ },
+ {
+  "title": "Possession",
+  "medium": "film",
+  "year": 1981,
+  "wbid": 5,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-12",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-DIS",
+   "SYM-BDY",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-20",
+   "WB-33"
+  ],
+  "lesson": "Refuse to explain the rupture; a broken tech tree can stay broken if its symbolic logic remains internally consistent.",
+  "batch": 2
+ },
+ {
+  "title": "Holy Mountain",
+  "medium": "film",
+  "year": 1973,
+  "wbid": 6,
+  "fsid": 5,
+  "rwid": 8,
+  "symd": 10,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-18",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-SAC",
+   "SYM-REL",
+   "SYM-EVO"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-11",
+   "WB-29"
+  ],
+  "lesson": "Tableaux can carry cosmology; build symbolic set-pieces whose sequence encodes the argument instead of dialogue.",
+  "batch": 2
+ },
+ {
+  "title": "Santa Sangre",
+  "medium": "film",
+  "year": 1989,
+  "wbid": 5,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 9,
+  "comm": "L",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-13",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-SAC",
+   "SYM-BDY",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-19",
+   "WB-32"
+  ],
+  "lesson": "Let ritual substitute for technology; a deliberately stunted civilisation explains itself through repeated ceremony.",
+  "batch": 2
+ },
+ {
+  "title": "Eraserhead",
+  "medium": "film",
+  "year": 1977,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-10",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-BIR",
+   "SYM-MCH"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-13",
+   "WB-26"
+  ],
+  "lesson": "Industrial sound design is worldbuilding: ambient decay conveys a degraded world without any explicit map.",
+  "batch": 2
+ },
+ {
+  "title": "Inland Empire",
+  "medium": "film",
+  "year": 2006,
+  "wbid": 5,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-15",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-DSC",
+   "SYM-LAB"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-21",
+   "WB-35"
+  ],
+  "lesson": "Withhold the master key; overlapping narrative strata reward rereading more than one tidy physics.",
+  "batch": 2
+ },
+ {
+  "title": "Mulholland Drive",
+  "medium": "film",
+  "year": 2001,
+  "wbid": 6,
+  "fsid": 9,
+  "rwid": 10,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-09",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-MEM",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-16",
+   "WB-28"
+  ],
+  "lesson": "Plant innocuous early objects that invert meaning after the pivot; structure carries the entropy curve.",
+  "batch": 2
+ },
+ {
+  "title": "Lost Highway",
+  "medium": "film",
+  "year": 1997,
+  "wbid": 5,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-11",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-SLF",
+   "SYM-DIS"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-17",
+   "WB-30"
+  ],
+  "lesson": "A loop can be a broken tech tree: make causality recursive so the audience must reverse the world's physics.",
+  "batch": 2
+ },
+ {
+  "title": "Pi",
+  "medium": "film",
+  "year": 1998,
+  "wbid": 5,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-14",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-KNW",
+   "SYM-MCH",
+   "SYM-NOI"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-23",
+   "WB-34"
+  ],
+  "lesson": "Give the entropy metaphor a numeric substrate; one hard rule lets obsession and cosmology share an engine.",
+  "batch": 2
+ },
+ {
+  "title": "Requiem for a Dream",
+  "medium": "film",
+  "year": 2000,
+  "wbid": 5,
+  "fsid": 5,
+  "rwid": 6,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-12",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-BDY",
+   "SYM-TIM"
+  ],
+  "wb": [
+   "WB-14",
+   "WB-22",
+   "WB-36"
+  ],
+  "lesson": "Montage rhythm can model accelerating decay; encode entropy in editing cadence rather than stated lore.",
+  "batch": 2
+ },
+ {
+  "title": "mother!",
+  "medium": "film",
+  "year": 2017,
+  "wbid": 6,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-16",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-BIR",
+   "SYM-ARC"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-25",
+   "WB-37"
+  ],
+  "lesson": "Build one house as a whole cosmos; a single closed set scales to universe-scale stakes through allegory.",
+  "batch": 2
+ },
+ {
+  "title": "Black Swan",
+  "medium": "film",
+  "year": 2010,
+  "wbid": 5,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-18",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-BDY",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-24",
+   "WB-38"
+  ],
+  "lesson": "Mirror doubles externalise internal entropy; a stunted discipline's rules become the physics of collapse.",
+  "batch": 2
+ },
+ {
+  "title": "The Lobster",
+  "medium": "film",
+  "year": 2015,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-REL",
+   "SYM-EVO"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-12",
+   "WB-27"
+  ],
+  "lesson": "Derive social law from one axiom; a broken tech tree can be bureaucracy enforcing taboo, not missing physics.",
+  "batch": 2
+ },
+ {
+  "title": "Dogtooth",
+  "medium": "film",
+  "year": 2009,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-09",
+   "FS-16"
+  ],
+  "sym": [
+   "SYM-LNG",
+   "SYM-KNW",
+   "SYM-CTL"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-15",
+   "WB-22"
+  ],
+  "lesson": "Gate all knowledge behind one authority; the entropy of meaning grows when words are privately redefined.",
+  "batch": 2
+ },
+ {
+  "title": "The Killing of a Sacred Deer",
+  "medium": "film",
+  "year": 2017,
+  "wbid": 6,
+  "fsid": 7,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-13",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-SAC",
+   "SYM-DTH",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-18",
+   "WB-30"
+  ],
+  "lesson": "Recontextualise myth as physics: debt and sacrifice give entropy a moral ledger rather than a mechanism.",
+  "batch": 2
+ },
+ {
+  "title": "Poor Things",
+  "medium": "film",
+  "year": 2023,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-14",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-BIR",
+   "SYM-SLF",
+   "SYM-TEC"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-20",
+   "WB-33"
+  ],
+  "lesson": "Let the broken tech tree be biological and social; progress without inherited ethics generates new entropy categories.",
+  "batch": 2
+ },
+ {
+  "title": "Melancholia",
+  "medium": "film",
+  "year": 2011,
+  "wbid": 6,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-12",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-DSC",
+   "SYM-DRK"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-11",
+   "WB-26"
+  ],
+  "lesson": "Scale entropy to a body: private depression and planetary collision share one trajectory, proving scale-invariant doom.",
+  "batch": 2
+ },
+ {
+  "title": "Another Earth",
+  "medium": "film",
+  "year": 2011,
+  "wbid": 5,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-04",
+   "FS-17",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-SLF",
+   "SYM-EXP"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-19",
+   "WB-31"
+  ],
+  "lesson": "Duplication is a cheap entropy reset; the second world stays a mirror, never an escape hatch.",
+  "batch": 2
+ },
+ {
+  "title": "Sunshine",
+  "medium": "film",
+  "year": 2007,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-15",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-FIR",
+   "SYM-SAC",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-16",
+   "WB-28"
+  ],
+  "lesson": "Make the mechanism fragile and human: dying star, dying crew, entropy as maintenance problem not villain.",
+  "batch": 2
+ },
+ {
+  "title": "Moon",
+  "medium": "film",
+  "year": 2009,
+  "wbid": 7,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-10",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-MEM",
+   "SYM-MCH"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-21",
+   "WB-34"
+  ],
+  "lesson": "Entropy applies to identity; cloning plus decay turns one broken tech-tree branch into an existential cost.",
+  "batch": 2
+ },
+ {
+  "title": "Gattaca",
+  "medium": "film",
+  "year": 1997,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-18",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-CLS",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-23",
+   "WB-35"
+  ],
+  "lesson": "Break the tech tree through perfected biology: a civilisation masters genetics yet leaves other branches inert.",
+  "batch": 2
+ },
+ {
+  "title": "Contact",
+  "medium": "film",
+  "year": 1997,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-14",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-KNW",
+   "SYM-INF",
+   "SYM-EXP"
+  ],
+  "wb": [
+   "WB-13",
+   "WB-24",
+   "WB-36"
+  ],
+  "lesson": "Anchor cosmic scale in one engineering puzzle; signal, blueprint and machine chain foreshadowing across decades.",
+  "batch": 2
+ },
+ {
+  "title": "Close Encounters of the Third Kind",
+  "medium": "film",
+  "year": 1977,
+  "wbid": 6,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-11",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-EXP",
+   "SYM-LGT",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-14",
+   "WB-25",
+   "WB-37"
+  ],
+  "lesson": "Withhold the machine's meaning until the end; cosmic scale arrives through obsessive repetition of five notes.",
+  "batch": 2
+ },
+ {
+  "title": "Stalker (1979)",
+  "medium": "film",
+  "year": 1979,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-09",
+   "FS-16"
+  ],
+  "sym": [
+   "SYM-KNW",
+   "SYM-SAC",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-17",
+   "WB-38"
+  ],
+  "lesson": "Make the zone a wish-granting entropy sink; the broken tech tree is desire and faith, never hardware.",
+  "batch": 2
+ },
+ {
+  "title": "Hard to Be a God",
+  "medium": "film",
+  "year": 2013,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-06",
+   "FS-12",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-OBS",
+   "SYM-TEC"
+  ],
+  "wb": [
+   "WB-29",
+   "WB-32",
+   "WB-39"
+  ],
+  "lesson": "Entropy is cultural: an advanced observer cannot repair a civilisation whose tech tree is deliberately stalled.",
+  "batch": 2
+ },
+ {
+  "title": "The Sacrifice",
+  "medium": "film",
+  "year": 1986,
+  "wbid": 6,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-04",
+   "FS-13",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-SAC",
+   "SYM-FIR",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-18",
+   "WB-40"
+  ],
+  "lesson": "End with the image you began with; entropy's reversal stays ritual, not physics, inside a broken tree.",
+  "batch": 2
+ },
+ {
+  "title": "Nostalghia",
+  "medium": "film",
+  "year": 1983,
+  "wbid": 7,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-05",
+   "FS-18"
+  ],
+  "sym": [
+   "SYM-WTR",
+   "SYM-FIR",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-14",
+   "WB-22",
+   "WB-33"
+  ],
+  "lesson": "Seed decay as overlooked detail; the final candle-lit crossing pays off patiently planted entropy.",
+  "batch": 2
+ },
+ {
+  "title": "The Mirror",
+  "medium": "film",
+  "year": 1975,
+  "wbid": 6,
+  "fsid": 9,
+  "rwid": 10,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-09",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-TIM",
+   "SYM-WTR"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-27",
+   "WB-39"
+  ],
+  "lesson": "Memory order need not be chronological; non-linear fragments can still resolve causality through recurrence and resonance.",
+  "batch": 2
+ },
+ {
+  "title": "On the Silver Globe",
+  "medium": "film",
+  "year": 1988,
+  "wbid": 10,
+  "fsid": 6,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-12",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-REL",
+   "SYM-TEC"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-11",
+   "WB-35"
+  ],
+  "lesson": "A broken tech tree works when knowledge is transmitted, mistranslated, and mystified rather than explained to the reader.",
+  "batch": 2
+ },
+ {
+  "title": "The Cremator",
+  "medium": "film",
+  "year": 1969,
+  "wbid": 6,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-16",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-CTL",
+   "SYM-FIR"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-19",
+   "WB-31"
+  ],
+  "lesson": "Let institutional decay arrive through complicity and self-justification, not external catastrophe; ordinariness can mask entropy.",
+  "batch": 2
+ },
+ {
+  "title": "Daisies",
+  "medium": "film",
+  "year": 1966,
+  "wbid": 5,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-14",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-CIV",
+   "SYM-CTL"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-24",
+   "WB-36"
+  ],
+  "lesson": "Formal disorder can encode a decaying universe: use playful rule-breaking to make entropy feel anarchic, not sombre.",
+  "batch": 2
+ },
+ {
+  "title": "Marketa Lazarova",
+  "medium": "film",
+  "year": 1967,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-15",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-REL",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-16",
+   "WB-29"
+  ],
+  "lesson": "Keep pre-modern and rival belief systems irreconcilable inside one world instead of resolving them into a single unified doctrine.",
+  "batch": 2
+ },
+ {
+  "title": "Valerie and Her Week of Wonders",
+  "medium": "film",
+  "year": 1970,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-13",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-EVO",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-20",
+   "WB-34"
+  ],
+  "lesson": "Route entropy through adolescent perception: symbolic cycles of decay land harder when naive, sensual, and unexplained.",
+  "batch": 2
+ },
+ {
+  "title": "The Hourglass Sanatorium",
+  "medium": "film",
+  "year": 1973,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-10",
+   "FS-17",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-DTH",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-12",
+   "WB-37"
+  ],
+  "lesson": "Time dilation and dead civilisations can share one dream logic; visualise entropy as collapsing architecture and inherited clutter.",
+  "batch": 2
+ },
+ {
+  "title": "Tetsuo: The Iron Man",
+  "medium": "film",
+  "year": 1989,
+  "wbid": 6,
+  "fsid": 5,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-11",
+   "FS-18",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-MCH",
+   "SYM-BDY",
+   "SYM-TEC"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-15",
+   "WB-30"
+  ],
+  "lesson": "Broken technology can be intimate and corporeal: when machinery invades flesh, lore emerges from wounds, not documents.",
+  "batch": 2
+ },
+ {
+  "title": "Rubber's Lover",
+  "medium": "film",
+  "year": 1996,
+  "wbid": 5,
+  "fsid": 4,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-12",
+   "FS-19",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-MCH",
+   "SYM-DIS",
+   "SYM-TEC"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-18",
+   "WB-32"
+  ],
+  "lesson": "Sparse-budget worlds may suggest entropy through texture and repetition, but must avoid looping motifs without progression.",
+  "batch": 2
+ },
+ {
+  "title": "964 Pinocchio",
+  "medium": "film",
+  "year": 1991,
+  "wbid": 6,
+  "fsid": 5,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-13",
+   "FS-20",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-INF",
+   "SYM-MCH",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-13",
+   "WB-21",
+   "WB-38"
+  ],
+  "lesson": "Carry a broken tech tree on one metaphor: an artificial being seeking standing amid a system already worn down.",
+  "batch": 2
+ },
+ {
+  "title": "Meatball Machine",
+  "medium": "film",
+  "year": 2005,
+  "wbid": 6,
+  "fsid": 4,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-02",
+   "FS-14",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-MCH",
+   "SYM-BDY",
+   "SYM-EVO"
+  ],
+  "wb": [
+   "WB-17",
+   "WB-23",
+   "WB-40"
+  ],
+  "lesson": "Make a broken tech tree legible through visceral mechanics: dramatise what the body can and cannot absorb.",
+  "batch": 2
+ },
+ {
+  "title": "Tokyo Gore Police",
+  "medium": "film",
+  "year": 2008,
+  "wbid": 7,
+  "fsid": 5,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-04",
+   "FS-16",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-DIS",
+   "SYM-CTL",
+   "SYM-TEC"
+  ],
+  "wb": [
+   "WB-13",
+   "WB-25",
+   "WB-39"
+  ],
+  "lesson": "Satire can build institutions: absurd but rule-bound systems let a deliberately broken tech tree feel governed, not random.",
+  "batch": 2
+ },
+ {
+  "title": "Hausu",
+  "medium": "film",
+  "year": 1977,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-09",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-FOD",
+   "SYM-DTH",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-26",
+   "WB-33"
+  ],
+  "lesson": "Unified lore is optional: a tonal collage can convey a decaying universe if every image carries one consistent symbolic charge.",
+  "batch": 2
+ },
+ {
+  "title": "Kwaidan",
+  "medium": "film",
+  "year": 1964,
+  "wbid": 6,
+  "fsid": 5,
+  "rwid": 6,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-14",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-MEM",
+   "SYM-ARC"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-11",
+   "WB-18"
+  ],
+  "lesson": "Anti-realist staging and folkloric framing let entropy read as recurrence: a broken tech tree stays absent yet the world still decays by ritual and memory.",
+  "batch": 2
+ },
+ {
+  "title": "Onibaba",
+  "medium": "film",
+  "year": 1964,
+  "wbid": 5,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-13",
+   "FS-16"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-FOD",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-11",
+   "WB-18"
+  ],
+  "lesson": "One masked object and one pit can carry an entire civilisational argument; scarcity plus disguise makes technological stagnation feel chosen, not merely unimagined.",
+  "batch": 2
+ },
+ {
+  "title": "Woman in the Dunes",
+  "medium": "film",
+  "year": 1964,
+  "wbid": 5,
+  "fsid": 5,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-24",
+   "FS-11"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-WTR",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-25",
+   "WB-19",
+   "WB-10"
+  ],
+  "lesson": "Make entropy physical: sand, water and endless labour turn cosmic decay into a daily loop, while unexplained village economics read as a deliberately broken tech tree.",
+  "batch": 2
+ },
+ {
+  "title": "Pitfall",
+  "medium": "film",
+  "year": 1962,
+  "wbid": 5,
+  "fsid": 4,
+  "rwid": 6,
+  "symd": 8,
+  "comm": "L",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-22",
+   "FS-04"
+  ],
+  "sym": [
+   "SYM-CLS",
+   "SYM-CTL",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-38",
+   "WB-29",
+   "WB-32"
+  ],
+  "lesson": "Ghosts that stay inside labour structures expose how systems outlive bodies; withholding technologies of mobility keeps a class trap legible and inescapable.",
+  "batch": 2
+ },
+ {
+  "title": "The Face of Another",
+  "medium": "film",
+  "year": 1966,
+  "wbid": 6,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-20",
+   "FS-07"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-DSC",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-40",
+   "WB-05",
+   "WB-33"
+  ],
+  "lesson": "Contemporary, near-present settings still support dense symbol systems; ethical refusals of available science can function as a tech tree broken on purpose.",
+  "batch": 2
+ },
+ {
+  "title": "Intervista",
+  "medium": "film",
+  "year": 1987,
+  "wbid": 4,
+  "fsid": 4,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-08",
+   "FS-15",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-LAB",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-40",
+   "WB-12",
+   "WB-11"
+  ],
+  "lesson": "Layered making-of structures demonstrate that memory and entropy can be staged reflexively; a stalled production line models a stalled technological lineage.",
+  "batch": 2
+ },
+ {
+  "title": "Solaris",
+  "medium": "novel",
+  "year": 1961,
+  "wbid": 10,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-21",
+   "FS-12"
+  ],
+  "sym": [
+   "SYM-OCN",
+   "SYM-MEM",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-22",
+   "WB-09",
+   "WB-37"
+  ],
+  "lesson": "Build institutions, archives and failed disciplines around an unknowable system, so cosmic entropy and epistemic limits both stay problems rather than scenery.",
+  "batch": 2
+ },
+ {
+  "title": "Roadside Picnic",
+  "medium": "novel",
+  "year": 1972,
+  "wbid": 10,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-18",
+   "FS-09",
+   "FS-02"
+  ],
+  "sym": [
+   "SYM-INF",
+   "SYM-EXP",
+   "SYM-GRD"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-20",
+   "WB-23"
+  ],
+  "lesson": "Fragment technology into scavenged, misapplied artefacts: a broken tech tree becomes an anomaly zone whose causal rules and moral costs stay permanently unclear.",
+  "batch": 2
+ },
+ {
+  "title": "The Left Hand of Darkness",
+  "medium": "novel",
+  "year": 1969,
+  "wbid": 9,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-10",
+   "FS-22",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-CIV",
+   "SYM-ARC"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-02",
+   "WB-31"
+  ],
+  "lesson": "Derive ecology, kinship and polity from one biological premise; scarcity of transport and heat shows a low-tech tree as culture, not oversight.",
+  "batch": 2
+ },
+ {
+  "title": "The Dispossessed",
+  "medium": "novel",
+  "year": 1974,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-22",
+   "FS-04"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-CLS",
+   "SYM-SDN"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-32",
+   "WB-36"
+  ],
+  "lesson": "Pair two societies with unevenly severed tech lineages; scarcity-driven design choices let political economy substitute for prophecy as the entropy engine.",
+  "batch": 2
+ },
+ {
+  "title": "Dune",
+  "medium": "novel",
+  "year": 1965,
+  "wbid": 10,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-11",
+   "FS-04"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-REL",
+   "SYM-WTR"
+  ],
+  "wb": [
+   "WB-24",
+   "WB-03",
+   "WB-35"
+  ],
+  "lesson": "Justify a broken tech tree with in-world prohibitions and a single scarce resource, then let ecology, prophecy and empire carry universe-scale decay.",
+  "batch": 2
+ },
+ {
+  "title": "Hyperion",
+  "medium": "novel",
+  "year": 1989,
+  "wbid": 10,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-20",
+   "FS-19",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-TIM",
+   "SYM-ARC"
+  ],
+  "wb": [
+   "WB-37",
+   "WB-14",
+   "WB-26"
+  ],
+  "lesson": "Retrograde time-tombs and a pilgrimage frame let entropy run backwards; nested tales recontextualise each other, and stalled AI lineage supplies the broken tree.",
+  "batch": 2
+ },
+ {
+  "title": "Blindsight",
+  "medium": "novel",
+  "year": 2006,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-12",
+   "FS-21",
+   "FS-05"
+  ],
+  "sym": [
+   "SYM-LNG",
+   "SYM-EVO"
+  ],
+  "wb": [
+   "WB-27",
+   "WB-23",
+   "WB-08"
+  ],
+  "lesson": "Make cognition itself the unexplained system: resurrected dead lineages and reflexive language show a tech tree broken at the level of understanding, not hardware.",
+  "batch": 2
+ },
+ {
+  "title": "House of Suns",
+  "medium": "novel",
+  "year": 2008,
+  "wbid": 10,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-26",
+   "FS-03",
+   "FS-15"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-ENT",
+   "SYM-CIV"
+  ],
+  "wb": [
+   "WB-34",
+   "WB-15",
+   "WB-39"
+  ],
+  "lesson": "Deep time plus copied lineages let memory and entropy swap roles; a species that stalls its own expansion shows deliberate self-limitation as broken tech.",
+  "batch": 2
+ },
+ {
+  "title": "Children of Time",
+  "medium": "novel",
+  "year": 2015,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 7,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-MEM",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-18",
+   "WB-31"
+  ],
+  "lesson": "Let a broken tech tree be inherited biology: uplift gaps persist as cultural memory, so entropy reads as lineage, not decay.",
+  "batch": 2
+ },
+ {
+  "title": "The Three-Body Problem",
+  "medium": "novel",
+  "year": 2008,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-13",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-OBS",
+   "SYM-DRK",
+   "SYM-CIV"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-21",
+   "WB-36"
+  ],
+  "lesson": "Stage technological stunting as deliberate policy: a civilisation can refuse progress, making entropy a strategic choice rather than physics.",
+  "batch": 2
+ },
+ {
+  "title": "Diaspora",
+  "medium": "novel",
+  "year": 1997,
+  "wbid": 10,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-16",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-INF",
+   "SYM-EVO",
+   "SYM-MCH"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-14",
+   "WB-29"
+  ],
+  "lesson": "Ground cosmology in software lineages: software civilisations let you model entropy at informational scale, with designed blind spots in inheritance.",
+  "batch": 2
+ },
+ {
+  "title": "Permutation City",
+  "medium": "novel",
+  "year": 1994,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 10,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-18",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-DSC",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-16",
+   "WB-33"
+  ],
+  "lesson": "Make substrate the mystery: bounded compute imposes artificial scarcity, turning deliberate technological limits into thermodynamic aesthetics.",
+  "batch": 2
+ },
+ {
+  "title": "The Book of the New Sun",
+  "medium": "novel",
+  "year": 1980,
+  "wbid": 10,
+  "fsid": 10,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-09",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-MEM",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-19",
+   "WB-38"
+  ],
+  "lesson": "Hide the far future as archaeology: unreliable narration lets entropic decline and lost tech be reconstructed only on rereading.",
+  "batch": 2
+ },
+ {
+  "title": "The Road",
+  "medium": "novel",
+  "year": 2006,
+  "wbid": 5,
+  "fsid": 5,
+  "rwid": 7,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-12",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-FIR",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-22",
+   "WB-34"
+  ],
+  "lesson": "Withhold cause: unexplained collapse keeps entropy absolute, and sparse worldbuilding forces symbolism to carry the cosmology.",
+  "batch": 2
+ },
+ {
+  "title": "The Drowned World",
+  "medium": "novel",
+  "year": 1962,
+  "wbid": 7,
+  "fsid": 5,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-14",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-WTR",
+   "SYM-EVO",
+   "SYM-DSC"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-17",
+   "WB-30"
+  ],
+  "lesson": "Tie psychic regression to planetary heat: entropy becomes inner as well as outer, so broken tech mirrors de-civilising minds.",
+  "batch": 2
+ },
+ {
+  "title": "A Canticle for Leibowitz",
+  "medium": "novel",
+  "year": 1959,
+  "wbid": 8,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-15",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-REL",
+   "SYM-KNW",
+   "SYM-ARC"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-23",
+   "WB-37"
+  ],
+  "lesson": "Break the tech tree through iconoclasm: preserved fragments become scripture, so redevelopment cycles repeat and entropy gains moral texture.",
+  "batch": 2
+ },
+ {
+  "title": "Oryx and Crake",
+  "medium": "novel",
+  "year": 2003,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-10",
+   "FS-17",
+   "FS-04"
+  ],
+  "sym": [
+   "SYM-BIR",
+   "SYM-TEC",
+   "SYM-CIV"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-24",
+   "WB-35"
+  ],
+  "lesson": "Make corporate biotech the entropy engine: deliberate design limits produce a species reboot, letting hubris function as infrastructure.",
+  "batch": 2
+ },
+ {
+  "title": "Station Eleven",
+  "medium": "novel",
+  "year": 2014,
+  "wbid": 6,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-11",
+   "FS-19",
+   "FS-02"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-11",
+   "WB-25",
+   "WB-32"
+  ],
+  "lesson": "Use artifact circulation as foreshadowing: small objects recontextualised across decades model cultural entropy better than exposition.",
+  "batch": 2
+ },
+ {
+  "title": "The Trial",
+  "medium": "novel",
+  "year": 1925,
+  "wbid": 5,
+  "fsid": 6,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-13",
+   "FS-22",
+   "FS-05"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-LAB",
+   "SYM-GRD"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-26",
+   "WB-39"
+  ],
+  "lesson": "Make bureaucracy the physics: illegible systems generate entropy, and withheld explanation is stronger than any broken-technology diagram.",
+  "batch": 2
+ },
+ {
+  "title": "The Castle",
+  "medium": "novel",
+  "year": 1926,
+  "wbid": 6,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-16",
+   "FS-24",
+   "FS-07"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-INF",
+   "SYM-SDN"
+  ],
+  "wb": [
+   "WB-13",
+   "WB-27",
+   "WB-40"
+  ],
+  "lesson": "Leave the system unfinished: an unreachable authority models irreversibility, teaching that incompletion can be structural design, not failure.",
+  "batch": 2
+ },
+ {
+  "title": "One Hundred Years of Solitude",
+  "medium": "novel",
+  "year": 1967,
+  "wbid": 9,
+  "fsid": 9,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-18",
+   "FS-25",
+   "FS-01"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-MEM",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-15",
+   "WB-28",
+   "WB-31"
+  ],
+  "lesson": "Cycle generations to encode entropy: repeated names and prophecies make decline legible, and rereading reveals the timeline was always closed.",
+  "batch": 2
+ },
+ {
+  "title": "The Master and Margarita",
+  "medium": "novel",
+  "year": 1967,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-09",
+   "FS-20",
+   "FS-03"
+  ],
+  "sym": [
+   "SYM-REL",
+   "SYM-DRK",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-20",
+   "WB-36"
+  ],
+  "lesson": "Interleave eras so parallel narratives recontextualise each other, letting suppressed knowledge and stalled technology read as recurring cosmic recurrence.",
+  "batch": 2
+ },
+ {
+  "title": "The Brothers Karamazov",
+  "medium": "novel",
+  "year": 1880,
+  "wbid": 6,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-REL",
+   "SYM-DTH",
+   "SYM-CLS"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-14",
+   "WB-38"
+  ],
+  "lesson": "Distribute rival philosophies among characters; let a broken tech tree be argued, not narrated, and entropy surface as moral weather.",
+  "batch": 2
+ },
+ {
+  "title": "The Stranger",
+  "medium": "novel",
+  "year": 1942,
+  "wbid": 4,
+  "fsid": 3,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-14",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-SDN",
+   "SYM-DTH",
+   "SYM-OBS"
+  ],
+  "wb": [
+   "WB-14",
+   "WB-33",
+   "WB-16"
+  ],
+  "lesson": "Withhold cosmology; render entropy as climate and procedure, letting a broken tech tree read through mundane bureaucracy.",
+  "batch": 2
+ },
+ {
+  "title": "The Plague",
+  "medium": "novel",
+  "year": 1947,
+  "wbid": 6,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-09",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-DIS",
+   "SYM-CIV",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-22",
+   "WB-03",
+   "WB-12"
+  ],
+  "lesson": "Use a quarantined city as a closed sandbox: isolation makes entropic decay and technological failure observable, comparable, repeatable.",
+  "batch": 2
+ },
+ {
+  "title": "Thus Spoke Zarathustra",
+  "medium": "novel",
+  "year": 1883,
+  "wbid": 5,
+  "fsid": 4,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-13",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-SDN",
+   "SYM-PRG"
+  ],
+  "wb": [
+   "WB-28",
+   "WB-24",
+   "WB-04"
+  ],
+  "lesson": "Give doctrine a prophet rather than a plot; let recurrence and heat-death be sung long before they are explained.",
+  "batch": 2
+ },
+ {
+  "title": "The Divine Comedy",
+  "medium": "novel",
+  "year": 1320,
+  "wbid": 10,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-12",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-LGT",
+   "SYM-DRK",
+   "SYM-ARC"
+  ],
+  "wb": [
+   "WB-27",
+   "WB-01",
+   "WB-24"
+  ],
+  "lesson": "Map the entire cosmos as architecture with strict moral physics; a broken tech tree becomes legible as graded geography.",
+  "batch": 2
+ },
+ {
+  "title": "Paradise Lost",
+  "medium": "novel",
+  "year": 1667,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-15",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-LGT",
+   "SYM-DRK",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-28",
+   "WB-01",
+   "WB-27"
+  ],
+  "lesson": "Frame entropy as aftermath of an earlier catastrophe; ruined infrastructure backlog explains why the tech tree was never rebuilt.",
+  "batch": 2
+ },
+ {
+  "title": "At the Mountains of Madness",
+  "medium": "novel",
+  "year": 1936,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-10",
+   "FS-18"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-EVO",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-31",
+   "WB-26",
+   "WB-08"
+  ],
+  "lesson": "Let ruins carry exposition: stratigraphy, murals and tools imply deep time and a civilisation whose tech tree collapsed.",
+  "batch": 2
+ },
+ {
+  "title": "The Colour Out of Space",
+  "medium": "novel",
+  "year": 1927,
+  "wbid": 5,
+  "fsid": 5,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-16",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-DIS",
+   "SYM-WTR"
+  ],
+  "wb": [
+   "WB-39",
+   "WB-40",
+   "WB-34"
+  ],
+  "lesson": "Make entropy a local contamination, not a cosmic statement; one failing farmstead shows decay at human scale.",
+  "batch": 2
+ },
+ {
+  "title": "The Shadow over Innsmouth",
+  "medium": "novel",
+  "year": 1936,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-11",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-OCN",
+   "SYM-EVO",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-33",
+   "WB-26",
+   "WB-25"
+  ],
+  "lesson": "Treat inheritance as infrastructure: biology replaces machinery, so the broken tech tree turns genetic and generational, not industrial.",
+  "batch": 2
+ },
+ {
+  "title": "The Call of Cthulhu",
+  "medium": "novel",
+  "year": 1928,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-13",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-OCN",
+   "SYM-MEM",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-29",
+   "WB-01",
+   "WB-24"
+  ],
+  "lesson": "Assemble the world from scattered documents and unreliable witnesses; absent working technology becomes evidence rather than a gap.",
+  "batch": 2
+ },
+ {
+  "title": "The Whisperer in Darkness",
+  "medium": "novel",
+  "year": 1931,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-14",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-MCH",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-21",
+   "WB-26",
+   "WB-30"
+  ],
+  "lesson": "Debate evidence on-page; scepticism and forged proof dramatise how a civilisation misreads its own technological record.",
+  "batch": 2
+ },
+ {
+  "title": "The Case of Charles Dexter Ward",
+  "medium": "novel",
+  "year": 1941,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-12",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-BIR",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-29",
+   "WB-30",
+   "WB-08"
+  ],
+  "lesson": "Make archival recovery the engine: resurrected records, not new inventions, drive discovery through a deliberately stalled tech tree.",
+  "batch": 2
+ },
+ {
+  "title": "Songs of a Dead Dreamer (Ligotti)",
+  "medium": "novel",
+  "year": 1986,
+  "wbid": 6,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-04",
+   "FS-17",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-DTH",
+   "SYM-NOI"
+  ],
+  "wb": [
+   "WB-40",
+   "WB-25",
+   "WB-16"
+  ],
+  "lesson": "Compress metaphysics into dream-logic vignettes; entropy needs no cosmic scale, only recurrence of one decaying image.",
+  "batch": 2
+ },
+ {
+  "title": "The Conspiracy Against the Human Race",
+  "medium": "novel",
+  "year": 2010,
+  "wbid": 3,
+  "fsid": 3,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-09",
+   "FS-21",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-SLF",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-15",
+   "WB-04",
+   "WB-40"
+  ],
+  "lesson": "State the pessimistic thesis directly, then let fiction stress-test it; a broken tech tree is an argument, not a set piece.",
+  "batch": 2
+ },
+ {
+  "title": "Teatro Grottesco",
+  "medium": "novel",
+  "year": 1996,
+  "wbid": 6,
+  "fsid": 5,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-11",
+   "FS-19",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-DRK",
+   "SYM-DSC",
+   "SYM-NOI"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-14",
+   "WB-29"
+  ],
+  "lesson": "Let entropy be felt as bureaucratic dread; withhold cosmology so decay reads as mood before it hardens into mechanism.",
+  "batch": 2
+ },
+ {
+  "title": "Ficciones (Borges)",
+  "medium": "novel",
+  "year": 1944,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 10,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-09",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-INF",
+   "SYM-LAB",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-18",
+   "WB-33"
+  ],
+  "lesson": "Treat infinite libraries as physics; when information is unbounded, entropy becomes a design choice rather than a backdrop.",
+  "batch": 2
+ },
+ {
+  "title": "The Aleph (Borges)",
+  "medium": "novel",
+  "year": 1949,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-12",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-INF",
+   "SYM-OBS",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-22",
+   "WB-36"
+  ],
+  "lesson": "Place an infinite archive inside a mundane house; forbidden knowledge should be spatially trivial and epistemically fatal.",
+  "batch": 2
+ },
+ {
+  "title": "Labyrinths (Borges)",
+  "medium": "novel",
+  "year": 1962,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-06",
+   "FS-14",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-ARC",
+   "SYM-LAB",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-25",
+   "WB-38"
+  ],
+  "lesson": "Curate scattered texts as one canon; recurring images let entropy motifs accumulate across separate stories instead of one exposition.",
+  "batch": 2
+ },
+ {
+  "title": "The Metamorphosis",
+  "medium": "novel",
+  "year": 1915,
+  "wbid": 4,
+  "fsid": 3,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-13",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-EVO",
+   "SYM-FOD"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-16",
+   "WB-31"
+  ],
+  "lesson": "Ground cosmic decay in domestic routine; the broken tech tree begins as a family's unpayable maintenance debt.",
+  "batch": 2
+ },
+ {
+  "title": "In the Penal Colony",
+  "medium": "novel",
+  "year": 1919,
+  "wbid": 5,
+  "fsid": 4,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-10",
+   "FS-18"
+  ],
+  "sym": [
+   "SYM-MCH",
+   "SYM-SAC",
+   "SYM-CTL"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-19",
+   "WB-27"
+  ],
+  "lesson": "Design dead-end machinery whose purpose is inscription; a broken tech tree needs rituals justifying their own obsolescence.",
+  "batch": 2
+ },
+ {
+  "title": "The Wendigo (Blackwood)",
+  "medium": "novel",
+  "year": 1910,
+  "wbid": 6,
+  "fsid": 4,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-05",
+   "FS-15",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-FOD",
+   "SYM-ENT",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-21",
+   "WB-34"
+  ],
+  "lesson": "Make the predator ecological, not moral: entropy arrives as appetite a broken tech tree can neither farm nor outrun.",
+  "batch": 2
+ },
+ {
+  "title": "The Willows (Blackwood)",
+  "medium": "novel",
+  "year": 1907,
+  "wbid": 7,
+  "fsid": 5,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-07",
+   "FS-16",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-WTR",
+   "SYM-ENT",
+   "SYM-OBS"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-23",
+   "WB-37"
+  ],
+  "lesson": "Scale horror by indifference; let entropy show only through mechanisms too large to register observers as observers.",
+  "batch": 2
+ },
+ {
+  "title": "A Voyage to Arcturus",
+  "medium": "novel",
+  "year": 1920,
+  "wbid": 9,
+  "fsid": 6,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-08",
+   "FS-11",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-REL",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-24",
+   "WB-39"
+  ],
+  "lesson": "Build each biome as an argument; every stop tests a metaphysics, so a broken tech tree reads as failed philosophy.",
+  "batch": 2
+ },
+ {
+  "title": "Star Maker",
+  "medium": "novel",
+  "year": 1937,
+  "wbid": 10,
+  "fsid": 7,
+  "rwid": 10,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-13",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-ENT",
+   "SYM-TIM"
+  ],
+  "wb": [
+   "WB-11",
+   "WB-26",
+   "WB-40"
+  ],
+  "lesson": "Narrate cosmology as taxonomy; entropy becomes legible when scaled through civilisations that each solved it wrongly.",
+  "batch": 2
+ },
+ {
+  "title": "Last and First Men",
+  "medium": "novel",
+  "year": 1930,
+  "wbid": 10,
+  "fsid": 6,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-04",
+   "FS-17",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-CIV",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-28",
+   "WB-35"
+  ],
+  "lesson": "Iterate species across deep time; demonstrate entropy through cumulative renovation failure rather than a single apocalypse.",
+  "batch": 2
+ },
+ {
+  "title": "The Time Machine",
+  "medium": "novel",
+  "year": 1895,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-09",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-CLS",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-15",
+   "WB-30"
+  ],
+  "lesson": "Let the machine reveal stratification; thermodynamic end-state and class structure resolve into one single decay curve.",
+  "batch": 2
+ },
+ {
+  "title": "The Island of Doctor Moreau",
+  "medium": "novel",
+  "year": 1896,
+  "wbid": 7,
+  "fsid": 5,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-12",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-LAB",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-13",
+   "WB-17",
+   "WB-32"
+  ],
+  "lesson": "Make the broken tech tree biological; vivisection shows progress without ethics, entropy paid as suffering of the modified.",
+  "batch": 2
+ },
+ {
+  "title": "Brave New World",
+  "medium": "novel",
+  "year": 1932,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-14",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-CLS",
+   "SYM-DSC"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-20",
+   "WB-29"
+  ],
+  "lesson": "Stabilise society by removing selection pressure; a broken tech tree can be deliberate, comfortable, and entropy-managed.",
+  "batch": 2
+ },
+ {
+  "title": "Nineteen Eighty-Four",
+  "medium": "novel",
+  "year": 1949,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-12",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-MEM",
+   "SYM-LNG"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-11",
+   "WB-27"
+  ],
+  "lesson": "Encode stagnation as linguistic decay: vocabulary restriction is a technology-suppression mechanism readers can trace backward through the whole text.",
+  "batch": 3
+ },
+ {
+  "title": "We (Zamyatin)",
+  "medium": "novel",
+  "year": 1924,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-03",
+   "FS-14",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-CIV",
+   "SYM-MCH",
+   "SYM-EXP"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-18",
+   "WB-33"
+  ],
+  "lesson": "Anchor a designed-stagnation civilisation in one recurring physical motif (glass, integers) so the broken tech tree reads without exposition.",
+  "batch": 3
+ },
+ {
+  "title": "Fahrenheit 451",
+  "medium": "novel",
+  "year": 1953,
+  "wbid": 7,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-16",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-FIR",
+   "SYM-KNW",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-19",
+   "WB-30"
+  ],
+  "lesson": "Pair each suppressed technology with a memorised counter-archive, making archival entropy the engine of stakes rather than mere scarcity.",
+  "batch": 3
+ },
+ {
+  "title": "A Scanner Darkly",
+  "medium": "novel",
+  "year": 1977,
+  "wbid": 7,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-01",
+   "FS-10",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-SLF",
+   "SYM-DRK"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-21",
+   "WB-35"
+  ],
+  "lesson": "Fragment the protagonist's records so surveillance and cognitive decay share one mechanism; second passes recover hidden causality.",
+  "batch": 3
+ },
+ {
+  "title": "The Man in the High Castle",
+  "medium": "novel",
+  "year": 1962,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-06",
+   "FS-17",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-OBS",
+   "SYM-FOD",
+   "SYM-ARC"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-14",
+   "WB-29"
+  ],
+  "lesson": "Use an in-world oracle to seed ambiguity: keep prophecy and forgery indistinguishable so deterministic history stays deniable.",
+  "batch": 3
+ },
+ {
+  "title": "Ubik",
+  "medium": "novel",
+  "year": 1969,
+  "wbid": 8,
+  "fsid": 9,
+  "rwid": 10,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-02",
+   "FS-09",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-TIM",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-24",
+   "WB-37"
+  ],
+  "lesson": "Let one commodity double as metaphysics: a recurring product can carry entropy, decay, and possible salvation across the timeline.",
+  "batch": 3
+ },
+ {
+  "title": "Do Androids Dream of Electric Sheep?",
+  "medium": "novel",
+  "year": 1968,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-13",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-MCH",
+   "SYM-CLS"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-16",
+   "WB-31"
+  ],
+  "lesson": "Define personhood by a measurable test, then let the metric's failure modes expose where the tech tree was deliberately truncated.",
+  "batch": 3
+ },
+ {
+  "title": "VALIS",
+  "medium": "novel",
+  "year": 1981,
+  "wbid": 7,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-08",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-LGT",
+   "SYM-REL",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-22",
+   "WB-38"
+  ],
+  "lesson": "Make the entropy-scale force an explicitly unreliable revelation; unstable cosmology obliges readers to rebuild the world each pass.",
+  "batch": 3
+ },
+ {
+  "title": "Neuromancer",
+  "medium": "novel",
+  "year": 1984,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-15",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-TEC",
+   "SYM-BDY",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-20",
+   "WB-34"
+  ],
+  "lesson": "Stage entropy at the interface: bodies decay while data persists, and that asymmetry motivates both the tech tree and its prohibitions.",
+  "batch": 3
+ },
+ {
+  "title": "Snow Crash",
+  "medium": "novel",
+  "year": 1992,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-12",
+   "FS-18"
+  ],
+  "sym": [
+   "SYM-LNG",
+   "SYM-MEM",
+   "SYM-CIV"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-25",
+   "WB-36"
+  ],
+  "lesson": "Ground a broken tech tree in deep history: one ancient informational weapon explains why certain branches are forbidden today.",
+  "batch": 3
+ },
+ {
+  "title": "The Diamond Age",
+  "medium": "novel",
+  "year": 1995,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-14",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-TEC",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-13",
+   "WB-26",
+   "WB-39"
+  ],
+  "lesson": "Give each technology tier its own material culture so deliberate gaps read as institutions maintained by people, not oversights.",
+  "batch": 3
+ },
+ {
+  "title": "Anathem",
+  "medium": "novel",
+  "year": 2008,
+  "wbid": 10,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-16",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-KNW",
+   "SYM-TIM",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-17",
+   "WB-32"
+  ],
+  "lesson": "Separate theoretical from applied knowledge by ritual; a cloister preserving physics while banning its use models controlled entropy.",
+  "batch": 3
+ },
+ {
+  "title": "Cryptonomicon",
+  "medium": "novel",
+  "year": 1999,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-10",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-KNW",
+   "SYM-MEM",
+   "SYM-MCH"
+  ],
+  "wb": [
+   "WB-15",
+   "WB-23",
+   "WB-40"
+  ],
+  "lesson": "Interleave timelines so entropy battles rhyme; earlier ciphers recontextualise later infrastructure and make information the story's currency.",
+  "batch": 3
+ },
+ {
+  "title": "A Fire Upon the Deep",
+  "medium": "novel",
+  "year": 1992,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-13",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-INF",
+   "SYM-EVO",
+   "SYM-EXP"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-28",
+   "WB-35"
+  ],
+  "lesson": "Stratify physical law itself; a zone-dependent tech tree turns cosmic entropy into a navigational and political constraint.",
+  "batch": 3
+ },
+ {
+  "title": "A Deepness in the Sky",
+  "medium": "novel",
+  "year": 1999,
+  "wbid": 10,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-02",
+   "FS-04"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-LGT",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-04",
+   "WB-07"
+  ],
+  "lesson": "Withhold the reveal; let theology and trade ethics imply the scale of entropy consequences.",
+  "batch": 3
+ },
+ {
+  "title": "The Culture: Consider Phlebas",
+  "medium": "novel",
+  "year": 1987,
+  "wbid": 10,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-02",
+   "FS-11"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-MEM",
+   "SYM-CIV"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-14",
+   "WB-16"
+  ],
+  "lesson": "Show post-scarcity through material abundance; anchor universe-scale stakes in one war story.",
+  "batch": 3
+ },
+ {
+  "title": "The Culture: Excession",
+  "medium": "novel",
+  "year": 1996,
+  "wbid": 10,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-08",
+   "FS-12"
+  ],
+  "sym": [
+   "SYM-INF",
+   "SYM-CTL",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-13",
+   "WB-17"
+  ],
+  "lesson": "Frame entropy-scale threats as Outside Context Problems that exceed even your advanced technology tree.",
+  "batch": 3
+ },
+ {
+  "title": "The Culture: Look to Windward",
+  "medium": "novel",
+  "year": 2000,
+  "wbid": 10,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-04",
+   "FS-05"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-MEM",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-26",
+   "WB-12",
+   "WB-13"
+  ],
+  "lesson": "Make a broken tech tree's cost emotional: inherited guilt, grief rituals, and one repeated light imagery.",
+  "batch": 3
+ },
+ {
+  "title": "Revelation Space",
+  "medium": "novel",
+  "year": 2000,
+  "wbid": 10,
+  "fsid": 9,
+  "rwid": 10,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-02",
+   "FS-04"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-DSC",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-17",
+   "WB-27"
+  ],
+  "lesson": "Plant archaeological clues so extinction-scale entropy reads as a puzzle with recontextualised earlier evidence.",
+  "batch": 3
+ },
+ {
+  "title": "The Prefect",
+  "medium": "novel",
+  "year": 2007,
+  "wbid": 10,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-16",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-MEM",
+   "SYM-CIV"
+  ],
+  "wb": [
+   "WB-14",
+   "WB-27",
+   "WB-15"
+  ],
+  "lesson": "Embed detective procedure in utopia so one sabotage reveals an entire hidden dependency in the technology tree.",
+  "batch": 3
+ },
+ {
+  "title": "Dragon's Egg",
+  "medium": "novel",
+  "year": 1980,
+  "wbid": 10,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-03",
+   "FS-02"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-TIM",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-09",
+   "WB-04"
+  ],
+  "lesson": "Let time dilation drive uplift so the broken tech tree advances generationally under extreme environmental constraint.",
+  "batch": 3
+ },
+ {
+  "title": "The Mote in God's Eye",
+  "medium": "novel",
+  "year": 1974,
+  "wbid": 10,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-02",
+   "FS-04"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-CIV",
+   "SYM-CTL"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-04",
+   "WB-11"
+  ],
+  "lesson": "Derive alien civilisation from one biological cycle; let that constraint produce the deliberately broken technology tree.",
+  "batch": 3
+ },
+ {
+  "title": "Ringworld",
+  "medium": "novel",
+  "year": 1970,
+  "wbid": 10,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-05",
+   "FS-12"
+  ],
+  "sym": [
+   "SYM-ARC",
+   "SYM-ENT",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-18",
+   "WB-08"
+  ],
+  "lesson": "Scale one megastructure past comprehension, then populate it with ruins that imply entropy already won.",
+  "batch": 3
+ },
+ {
+  "title": "Rendezvous with Rama",
+  "medium": "novel",
+  "year": 1973,
+  "wbid": 10,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-11",
+   "FS-06"
+  ],
+  "sym": [
+   "SYM-ARC",
+   "SYM-OCN",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-03",
+   "WB-11"
+  ],
+  "lesson": "Reveal the artefact only through limited human exploration; keep its makers' absent technology tree unexplained.",
+  "batch": 3
+ },
+ {
+  "title": "Childhood's End",
+  "medium": "novel",
+  "year": 1953,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-11",
+   "FS-02"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-SDN",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-11",
+   "WB-04",
+   "WB-10"
+  ],
+  "lesson": "Make a peacekeeping utopia a trap; withhold the reason until collective transcendence reframes prior history.",
+  "batch": 3
+ },
+ {
+  "title": "The City and the Stars",
+  "medium": "novel",
+  "year": 1956,
+  "wbid": 10,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-11",
+   "FS-02"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-ENT",
+   "SYM-CIV"
+  ],
+  "wb": [
+   "WB-16",
+   "WB-15",
+   "WB-13"
+  ],
+  "lesson": "Cycle civilisations as memory loss; make a stagnant immortal city the entropy endpoint of a broken tree.",
+  "batch": 3
+ },
+ {
+  "title": "The Fountains of Paradise",
+  "medium": "novel",
+  "year": 1979,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-04",
+   "FS-05"
+  ],
+  "sym": [
+   "SYM-ARC",
+   "SYM-ENT",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-13",
+   "WB-12"
+  ],
+  "lesson": "Ground engineering in real orbital mechanics; let one ancient site carry the civilisation's mythic memory.",
+  "batch": 3
+ },
+ {
+  "title": "The Songs of Distant Earth",
+  "medium": "novel",
+  "year": 1986,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-06",
+   "FS-05"
+  ],
+  "sym": [
+   "SYM-OCN",
+   "SYM-MEM",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-16",
+   "WB-11",
+   "WB-18"
+  ],
+  "lesson": "Design colony seeding as deliberate technological amnesia; entropy across interstellar distance breaks the parent tree.",
+  "batch": 3
+ },
+ {
+  "title": "Blood Meridian",
+  "medium": "novel",
+  "year": 1985,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-BDY",
+   "SYM-EXP"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-14",
+   "WB-27"
+  ],
+  "lesson": "Withhold causal exposition; let recurring violence and landscape accrete meaning so entropy reads as inevitability, not plot device.",
+  "batch": 3
+ },
+ {
+  "title": "Riddley Walker",
+  "medium": "novel",
+  "year": 1980,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 10,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-09",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-LNG",
+   "SYM-KNW",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-11",
+   "WB-23"
+  ],
+  "lesson": "Corrupt language by entropy to encode history; let a broken tech tree be legible only through degraded ritual names.",
+  "batch": 3
+ },
+ {
+  "title": "The Book of the New Sun: Urth",
+  "medium": "novel",
+  "year": 1980,
+  "wbid": 10,
+  "fsid": 10,
+  "rwid": 10,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-07",
+   "FS-13"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-REL",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-08",
+   "WB-16"
+  ],
+  "lesson": "Layer unreliable narration over deep time; make technology sacred relic so a regressed civilisation's gaps become the central puzzle.",
+  "batch": 3
+ },
+ {
+  "title": "Piranesi",
+  "medium": "novel",
+  "year": 2020,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-14",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-OCN",
+   "SYM-MEM",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-13",
+   "WB-28"
+  ],
+  "lesson": "Restrict viewpoint to the inhabitant; worldbuilding emerges from ritual measurement, and entropy is indexed by vanished tides.",
+  "batch": 3
+ },
+ {
+  "title": "The Buried Giant",
+  "medium": "novel",
+  "year": 2015,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-15",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-DRK",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-19",
+   "WB-32"
+  ],
+  "lesson": "Make collective amnesia the world's physics; withheld history doubles as both entropy state and narrative mechanism.",
+  "batch": 3
+ },
+ {
+  "title": "Never Let Me Go",
+  "medium": "novel",
+  "year": 2005,
+  "wbid": 7,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-16",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-SAC",
+   "SYM-CLS"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-21",
+   "WB-33"
+  ],
+  "lesson": "Reveal dystopia through euphemism and mundane routine; the broken tech tree hides behind institutional language, not spectacle.",
+  "batch": 3
+ },
+ {
+  "title": "Klara and the Sun",
+  "medium": "novel",
+  "year": 2021,
+  "wbid": 6,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-10",
+   "FS-18",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-MCH",
+   "SYM-LGT",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-22",
+   "WB-34"
+  ],
+  "lesson": "Filter the world through a nonhuman sensor; partial perception forces readers to infer the broken tech tree's true shape.",
+  "batch": 3
+ },
+ {
+  "title": "Woman in the Dunes",
+  "medium": "novel",
+  "year": 1962,
+  "wbid": 8,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-13",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-WTR",
+   "SYM-BDY",
+   "SYM-OCN"
+  ],
+  "wb": [
+   "WB-15",
+   "WB-24",
+   "WB-36"
+  ],
+  "lesson": "Confine geography to one recursive system; entropy becomes the daily labour that structures every unit of meaning.",
+  "batch": 3
+ },
+ {
+  "title": "The Sea and Poison",
+  "medium": "novel",
+  "year": 1957,
+  "wbid": 6,
+  "fsid": 5,
+  "rwid": 6,
+  "symd": 7,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-02",
+   "FS-12",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-KNW",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-17",
+   "WB-26",
+   "WB-37"
+  ],
+  "lesson": "Ground abstract complicity in bureaucratic procedure; institutional entropy accumulates through small, documented, individually deniable steps.",
+  "batch": 3
+ },
+ {
+  "title": "Silence",
+  "medium": "novel",
+  "year": 1966,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-14",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-REL",
+   "SYM-SAC",
+   "SYM-SDN"
+  ],
+  "wb": [
+   "WB-20",
+   "WB-29",
+   "WB-38"
+  ],
+  "lesson": "Let absent divine feedback function as entropy; silence is data, and the interpretation burden falls on the believer.",
+  "batch": 3
+ },
+ {
+  "title": "Deep River",
+  "medium": "novel",
+  "year": 1993,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-06",
+   "FS-16",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-REL",
+   "SYM-WTR",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-27",
+   "WB-30",
+   "WB-39"
+  ],
+  "lesson": "Braided pilgrimages let separate arcs converge; shared symbol systems substitute for explicit cosmology across cultural distance.",
+  "batch": 3
+ },
+ {
+  "title": "The Temple of the Golden Pavilion",
+  "medium": "novel",
+  "year": 1956,
+  "wbid": 6,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-18",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-DSC",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-16",
+   "WB-35",
+   "WB-40"
+  ],
+  "lesson": "Make a static structure the antagonist; obsession with permanence externalises entropy anxiety without ever stating it.",
+  "batch": 3
+ },
+ {
+  "title": "Kokoro",
+  "medium": "novel",
+  "year": 1914,
+  "wbid": 4,
+  "fsid": 6,
+  "rwid": 6,
+  "symd": 7,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-06",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-SLF",
+   "SYM-DTH",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-21",
+   "WB-24",
+   "WB-34"
+  ],
+  "lesson": "Withhold the past until reinterpretation detonates it; isolation reads as entropy's social form, not mere backstory.",
+  "batch": 3
+ },
+ {
+  "title": "Snow Country",
+  "medium": "novel",
+  "year": 1937,
+  "wbid": 3,
+  "fsid": 4,
+  "rwid": 6,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-06",
+   "FS-11"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-WTR",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-24",
+   "WB-40"
+  ],
+  "lesson": "Build a world out of weather, texture, and futility so decay needs no explanation; entropy as atmosphere, never exposition.",
+  "batch": 3
+ },
+ {
+  "title": "Hard-Boiled Wonderland and the End of the World",
+  "medium": "novel",
+  "year": 1985,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-14",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-SDN",
+   "SYM-DRK"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-13",
+   "WB-27"
+  ],
+  "lesson": "Two parallel systems whose connection is the ending: entropic collapse and an archive-town of severed minds teach structure as theme.",
+  "batch": 3
+ },
+ {
+  "title": "The Wind-Up Bird Chronicle",
+  "medium": "novel",
+  "year": 1994,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-09",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-WTR",
+   "SYM-MEM",
+   "SYM-DSC"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-21",
+   "WB-28"
+  ],
+  "lesson": "Layer historical atrocity under domestic mundanity; the well and the wind-up bird show causality as something buried, wound, and released.",
+  "batch": 3
+ },
+ {
+  "title": "1Q84",
+  "medium": "novel",
+  "year": 2009,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-07",
+   "FS-15"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-MEM",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-11",
+   "WB-30"
+  ],
+  "lesson": "Two moons, two timelines, one converging truth: give a broken world two incompatible physics and let the reader reconcile them.",
+  "batch": 3
+ },
+ {
+  "title": "Kafka on the Shore",
+  "medium": "novel",
+  "year": 2002,
+  "wbid": 8,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-05",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-DSC",
+   "SYM-FOD"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-21",
+   "WB-28"
+  ],
+  "lesson": "Prophesy, then literalize it sideways; symbolic causality lets a world obey dream-logic while readers retroactively assemble the rules.",
+  "batch": 3
+ },
+ {
+  "title": "SOMA",
+  "medium": "game",
+  "year": 2015,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-06",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-MEM",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-13",
+   "WB-27",
+   "WB-35"
+  ],
+  "lesson": "Make continuity-of-copying a mechanical reveal; identity loss mirrors entropy and lets players test the broken tech tree firsthand.",
+  "batch": 3
+ },
+ {
+  "title": "Outer Wilds",
+  "medium": "game",
+  "year": 2019,
+  "wbid": 9,
+  "fsid": 10,
+  "rwid": 10,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-12",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-TIM",
+   "SYM-OBS"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-04",
+   "WB-27"
+  ],
+  "lesson": "Persistent world plus player knowledge equals foreshadowing without cutscenes; the ending is authored entirely by accumulated comprehension.",
+  "batch": 3
+ },
+ {
+  "title": "Disco Elysium",
+  "medium": "game",
+  "year": 2019,
+  "wbid": 10,
+  "fsid": 9,
+  "rwid": 10,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-04",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-CIV",
+   "SYM-DSC"
+  ],
+  "wb": [
+   "WB-14",
+   "WB-19",
+   "WB-21"
+  ],
+  "lesson": "Locked skills and unreliable narration break understanding rather than progress; partial knowledge is the only knowledge, and the end reframes all of it.",
+  "batch": 3
+ },
+ {
+  "title": "NieR:Automata",
+  "medium": "game",
+  "year": 2017,
+  "wbid": 9,
+  "fsid": 9,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-10",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-MCH",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-12",
+   "WB-27"
+  ],
+  "lesson": "Multiple playthroughs reveal earlier victories as catastrophes; the same events re-signified are how a broken tech tree stays hidden in plain sight.",
+  "batch": 3
+ },
+ {
+  "title": "NieR Replicant",
+  "medium": "game",
+  "year": 2010,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-10",
+   "FS-16",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-DTH",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-12",
+   "WB-25"
+  ],
+  "lesson": "Replaying from another character's view recasts the hero's choices as tragedy; asymmetry of knowledge makes an unavoidable broken tech tree feel tragic.",
+  "batch": 3
+ },
+ {
+  "title": "Bloodborne",
+  "medium": "game",
+  "year": 2015,
+  "wbid": 9,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-13",
+   "FS-18",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-KNW",
+   "SYM-BIR"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-13",
+   "WB-29"
+  ],
+  "lesson": "Cosmic truth arrives by layers tied to consumption and insight; make knowledge itself a corrupting resource so comprehension accelerates entropy.",
+  "batch": 3
+ },
+ {
+  "title": "Dark Souls",
+  "medium": "game",
+  "year": 2011,
+  "wbid": 10,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-11",
+   "FS-15",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-FIR",
+   "SYM-DRK",
+   "SYM-CLS"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-10",
+   "WB-26"
+  ],
+  "lesson": "A world whose physics is cycles and fading fire makes decay legible through repetition; every ending retroactively reframes every prior action.",
+  "batch": 3
+ },
+ {
+  "title": "Dark Souls III",
+  "medium": "game",
+  "year": 2016,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-15",
+   "FS-18",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-FIR",
+   "SYM-ENT",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-10",
+   "WB-31"
+  ],
+  "lesson": "Deliberate incompleteness lets players assemble meaning from fragments, but requires proving a coherent world lies beneath the gaps, not mystification.",
+  "batch": 3
+ },
+ {
+  "title": "Elden Ring",
+  "medium": "game",
+  "year": 2022,
+  "wbid": 10,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-DRK",
+   "SYM-ARC"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-17",
+   "WB-28"
+  ],
+  "lesson": "Bury causal history in environmental detail; let ruins and item text imply entropy's slow victory without cutscenes.",
+  "batch": 3
+ },
+ {
+  "title": "SIGNALIS",
+  "medium": "game",
+  "year": 2022,
+  "wbid": 7,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-14",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-MEM",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-21",
+   "WB-33"
+  ],
+  "lesson": "Recontextualise early rooms later; make entropy, memory decay and closed loops mechanically legible, not merely narrated.",
+  "batch": 3
+ },
+ {
+  "title": "Rain World",
+  "medium": "game",
+  "year": 2017,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-16",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-ENT",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-19",
+   "WB-30"
+  ],
+  "lesson": "Build ecology first, plot last; emergent cycles model entropy and a broken tech tree better than exposition.",
+  "batch": 3
+ },
+ {
+  "title": "The Talos Principle",
+  "medium": "game",
+  "year": 2014,
+  "wbid": 8,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-09",
+   "FS-18"
+  ],
+  "sym": [
+   "SYM-KNW",
+   "SYM-EXP",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-22",
+   "WB-35"
+  ],
+  "lesson": "Distribute philosophy through found texts and terminals; let a locked tech tree pose the entropy question the player must answer.",
+  "batch": 3
+ },
+ {
+  "title": "INSIDE",
+  "medium": "game",
+  "year": 2016,
+  "wbid": 6,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-12",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-LAB",
+   "SYM-BDY"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-25",
+   "WB-37"
+  ],
+  "lesson": "Wordless environmental staging can carry entropy and control themes; withhold explanation and let repeat viewings supply causality.",
+  "batch": 3
+ },
+ {
+  "title": "Control",
+  "medium": "game",
+  "year": 2019,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-13",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-ENT",
+   "SYM-OBS"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-15",
+   "WB-29"
+  ],
+  "lesson": "Archive documents as level design: bureaucratic fragments let players reconstruct a broken research tree and its entropic costs.",
+  "batch": 3
+ },
+ {
+  "title": "Return of the Obra Dinn",
+  "medium": "game",
+  "year": 2018,
+  "wbid": 7,
+  "fsid": 10,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-08",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-MEM",
+   "SYM-OBS"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-23",
+   "WB-38"
+  ],
+  "lesson": "Make deduction the engine: fragmentary evidence reordered by the player teaches how records decay while causality survives entropy.",
+  "batch": 3
+ },
+ {
+  "title": "13 Sentinels: Aegis Rim",
+  "medium": "game",
+  "year": 2019,
+  "wbid": 8,
+  "fsid": 10,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-10",
+   "FS-15",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-MEM",
+   "SYM-MCH"
+  ],
+  "wb": [
+   "WB-11",
+   "WB-26",
+   "WB-39"
+  ],
+  "lesson": "Nonlinear revelation order lets foreshadowing do structural work; scramble chronology deliberately so informational entropy becomes the theme.",
+  "batch": 3
+ },
+ {
+  "title": "Umineko When They Cry",
+  "medium": "game",
+  "year": 2007,
+  "wbid": 9,
+  "fsid": 10,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-11",
+   "FS-19",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-REL",
+   "SYM-LNG"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-27",
+   "WB-40"
+  ],
+  "lesson": "Build rules of evidence into the fiction; a broken epistemic tech tree forces readers to theorise rather than be told.",
+  "batch": 3
+ },
+ {
+  "title": "Higurashi When They Cry",
+  "medium": "game",
+  "year": 2002,
+  "wbid": 8,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-16",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-REL",
+   "SYM-SAC",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-24",
+   "WB-36"
+  ],
+  "lesson": "Loop structure converts entropy into dread; let repeated timelines accumulate clues, trusting audiences to hold contradictions across arcs.",
+  "batch": 3
+ },
+ {
+  "title": "Steins;Gate (VN)",
+  "medium": "game",
+  "year": 2009,
+  "wbid": 8,
+  "fsid": 10,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-12",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-MCH",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-20",
+   "WB-31"
+  ],
+  "lesson": "Anchor time-loop rules early and obey them; consistent constraints make entropy and causality feel like physics, not convenience.",
+  "batch": 3
+ },
+ {
+  "title": "Hyper Light Drifter",
+  "medium": "game",
+  "year": 2016,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-14",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-DIS",
+   "SYM-ENT"
+  ],
+  "wb": [
+   "WB-14",
+   "WB-28",
+   "WB-32"
+  ],
+  "lesson": "Wordless ruins encode an extinct civilisation's broken tech; environmental entropy tells the story that text would only flatten.",
+  "batch": 3
+ },
+ {
+  "title": "Hollow Knight",
+  "medium": "game",
+  "year": 2017,
+  "wbid": 10,
+  "fsid": 9,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-09",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-DTH",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-16",
+   "WB-34"
+  ],
+  "lesson": "Layer dream, memory and decay so lore about entropy is playable; keep the tech tree's gaps as explicit mystery.",
+  "batch": 3
+ },
+ {
+  "title": "Pathologic",
+  "medium": "game",
+  "year": 2005,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-20",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-SAC",
+   "SYM-CIV"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-18",
+   "WB-33"
+  ],
+  "lesson": "Make scarcity mechanical: a deliberately stunted technology tree turns entropy into daily triage, and repetition reveals structural inevitability.",
+  "batch": 3
+ },
+ {
+  "title": "Pathologic 2",
+  "medium": "game",
+  "year": 2019,
+  "wbid": 10,
+  "fsid": 8,
+  "rwid": 10,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-03",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-DIS",
+   "SYM-TIM"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-12",
+   "WB-27"
+  ],
+  "lesson": "Make scarcity and permadeath the teaching device: systemic pressure, not lore dumps, reveals a broken tech tree.",
+  "batch": 3
+ },
+ {
+  "title": "Kentucky Route Zero",
+  "medium": "game",
+  "year": 2013,
+  "wbid": 9,
+  "fsid": 9,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-14",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-OCN",
+   "SYM-MEM",
+   "SYM-LNG"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-15",
+   "WB-31"
+  ],
+  "lesson": "Stage entropy as debt and delay: withheld scenes let audiences assemble cosmology from fragments, so structure carries meaning beyond exposition.",
+  "batch": 3
+ },
+ {
+  "title": "The Beginner's Guide",
+  "medium": "game",
+  "year": 2015,
+  "wbid": 3,
+  "fsid": 6,
+  "rwid": 9,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-17",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-KNW",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-19",
+   "WB-33"
+  ],
+  "lesson": "Let the author's edits be the world's physics: revision itself becomes a mechanic exposing who controls interpretation.",
+  "batch": 3
+ },
+ {
+  "title": "What Remains of Edith Finch",
+  "medium": "game",
+  "year": 2017,
+  "wbid": 6,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-13",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-BDY",
+   "SYM-ARC"
+  ],
+  "wb": [
+   "WB-09",
+   "WB-20",
+   "WB-36"
+  ],
+  "lesson": "Bind each mechanic to one room's architecture; spatial memory then performs foreshadowing without cutscenes or narrator explanation.",
+  "batch": 3
+ },
+ {
+  "title": "Death Stranding",
+  "medium": "game",
+  "year": 2019,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-16",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-ENT",
+   "SYM-BIR",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-18",
+   "WB-29"
+  ],
+  "lesson": "Make traversal and shared infrastructure literalise cosmic decay, letting player labour replace exposition about entropy and isolation.",
+  "batch": 3
+ },
+ {
+  "title": "Metal Gear Solid 2",
+  "medium": "game",
+  "year": 2001,
+  "wbid": 8,
+  "fsid": 10,
+  "rwid": 10,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-06",
+   "FS-12"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-MEM",
+   "SYM-INF"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-14",
+   "WB-28"
+  ],
+  "lesson": "Plant dialogue that only resolves on replay; information control becomes both theme and a method for layered reread value.",
+  "batch": 3
+ },
+ {
+  "title": "Silent Hill 2",
+  "medium": "game",
+  "year": 2001,
+  "wbid": 7,
+  "fsid": 8,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-18",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-DRK",
+   "SYM-DSC",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-17",
+   "WB-30"
+  ],
+  "lesson": "Let environment and monster design encode each character's fault; ambiguity sustains decades of reinterpretation without added canon.",
+  "batch": 3
+ },
+ {
+  "title": "Silent Hill 3",
+  "medium": "game",
+  "year": 2003,
+  "wbid": 7,
+  "fsid": 7,
+  "rwid": 7,
+  "symd": 9,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-09",
+   "FS-15",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-BIR",
+   "SYM-BDY",
+   "SYM-REL"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-21",
+   "WB-34"
+  ],
+  "lesson": "Inherit a predecessor's symbolism and bend it toward birth; continuity pays off only when the new axis is genuinely different.",
+  "batch": 3
+ },
+ {
+  "title": "Fatal Frame II",
+  "medium": "game",
+  "year": 2003,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 8,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-02",
+   "FS-19",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-SAC",
+   "SYM-DTH",
+   "SYM-OBS"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-22",
+   "WB-35"
+  ],
+  "lesson": "Turn the camera into the cosmology's instrument: the observation mechanic literalises ritual sacrifice and makes the setting self-documenting.",
+  "batch": 3
+ },
+ {
+  "title": "Rule of Rose",
+  "medium": "game",
+  "year": 2006,
+  "wbid": 6,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 9,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-03",
+   "FS-11",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-CLS",
+   "SYM-SAC",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-11",
+   "WB-23",
+   "WB-37"
+  ],
+  "lesson": "Encode hierarchy as childish ritual; unreliable memory lets the same scenes mean differently on a second pass.",
+  "batch": 3
+ },
+ {
+  "title": "Planescape: Torment",
+  "medium": "game",
+  "year": 1999,
+  "wbid": 10,
+  "fsid": 10,
+  "rwid": 10,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-13",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-DTH",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-16",
+   "WB-25"
+  ],
+  "lesson": "Make memory the save file: identity, consequence and world lore converge so replay itself becomes the entropy engine.",
+  "batch": 3
+ },
+ {
+  "title": "Torment: Tides of Numenera",
+  "medium": "game",
+  "year": 2017,
+  "wbid": 9,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-05",
+   "FS-12",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-EVO",
+   "SYM-MEM",
+   "SYM-TEC"
+  ],
+  "wb": [
+   "WB-13",
+   "WB-24",
+   "WB-38"
+  ],
+  "lesson": "Layer civilisations atop dead ones; salvage-tech strata let a broken tree feel archaeological rather than arbitrarily restricted.",
+  "batch": 3
+ },
+ {
+  "title": "Sunless Sea",
+  "medium": "game",
+  "year": 2015,
+  "wbid": 10,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 9,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-17",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-OCN",
+   "SYM-DRK",
+   "SYM-FOD"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-26",
+   "WB-39"
+  ],
+  "lesson": "Write procedural prose with stateful callbacks; scattered islands then reassemble into one cosmology across many playthroughs.",
+  "batch": 3
+ },
+ {
+  "title": "Cultist Simulator",
+  "medium": "game",
+  "year": 2018,
+  "wbid": 9,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 10,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-18",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-REL",
+   "SYM-KNW",
+   "SYM-LNG"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-27",
+   "WB-40"
+  ],
+  "lesson": "Hide the tech tree in card interactions; players infer forbidden physics by experiment, so ignorance becomes the designed progression.",
+  "batch": 3
+ },
+ {
+  "title": "Fallen London",
+  "medium": "game",
+  "year": 2009,
+  "wbid": 9,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "H",
+  "conf": "B",
+  "fs": [
+   "FS-03",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-DRK",
+   "SYM-CIV",
+   "SYM-KNW"
+  ],
+  "wb": [
+   "WB-02",
+   "WB-09",
+   "WB-21"
+  ],
+  "lesson": "Layer lore so vertical exploration substitutes for linear tech: a broken tech tree becomes geography, and entropy reads as institutional decay.",
+  "batch": 3
+ },
+ {
+  "title": "Hypnospace Outlaw",
+  "medium": "game",
+  "year": 2019,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 6,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-05",
+   "FS-14",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-MEM",
+   "SYM-INF",
+   "SYM-NOI"
+  ],
+  "wb": [
+   "WB-04",
+   "WB-13",
+   "WB-27"
+  ],
+  "lesson": "Reconstruct a dead network from its artifacts; let archival fragments carry both setting and foreshadowing, so decay is discovered, not declared.",
+  "batch": 3
+ },
+ {
+  "title": "The Outer Worlds",
+  "medium": "game",
+  "year": 2019,
+  "wbid": 5,
+  "fsid": 3,
+  "rwid": 4,
+  "symd": 4,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-16",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-CLS",
+   "SYM-CIV",
+   "SYM-TEC"
+  ],
+  "wb": [
+   "WB-06",
+   "WB-15",
+   "WB-30"
+  ],
+  "lesson": "Contrast corporate colonies against entropy: a deliberately stunted tech tree works best when factions, not physics, are the limiting reagent.",
+  "batch": 3
+ },
+ {
+  "title": "Prey",
+  "medium": "game",
+  "year": 2017,
+  "wbid": 7,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 6,
+  "comm": "M",
+  "conf": "A",
+  "fs": [
+   "FS-07",
+   "FS-12",
+   "FS-20"
+  ],
+  "sym": [
+   "SYM-BDY",
+   "SYM-SLF",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-03",
+   "WB-18",
+   "WB-25"
+  ],
+  "lesson": "Make one sealed habitat model the whole universe; resource loops let a broken tech tree fail legibly and repeatedly.",
+  "batch": 3
+ },
+ {
+  "title": "System Shock 2",
+  "medium": "game",
+  "year": 1999,
+  "wbid": 7,
+  "fsid": 5,
+  "rwid": 7,
+  "symd": 6,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-01",
+   "FS-10",
+   "FS-17"
+  ],
+  "sym": [
+   "SYM-MCH",
+   "SYM-BDY",
+   "SYM-CTL"
+  ],
+  "wb": [
+   "WB-05",
+   "WB-11",
+   "WB-33"
+  ],
+  "lesson": "Let a derelict system be the antagonist's body: logs and malfunctioning subsystems externalise entropy better than exposition.",
+  "batch": 3
+ },
+ {
+  "title": "Deus Ex",
+  "medium": "game",
+  "year": 2000,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-04",
+   "FS-13",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-CTL",
+   "SYM-TEC",
+   "SYM-CLS"
+  ],
+  "wb": [
+   "WB-01",
+   "WB-14",
+   "WB-28"
+  ],
+  "lesson": "Ground factional conspiracy in consistent infrastructure; a broken tech tree is believable when every upgrade has a visible institutional owner.",
+  "batch": 3
+ },
+ {
+  "title": "Bioshock",
+  "medium": "game",
+  "year": 2007,
+  "wbid": 8,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-06",
+   "FS-15",
+   "FS-21"
+  ],
+  "sym": [
+   "SYM-CLS",
+   "SYM-CTL",
+   "SYM-EVO"
+  ],
+  "wb": [
+   "WB-07",
+   "WB-16",
+   "WB-34"
+  ],
+  "lesson": "Design a closed city whose ideology is its tech tree; scarcity then turns philosophy into an entropy engine.",
+  "batch": 3
+ },
+ {
+  "title": "Bioshock Infinite",
+  "medium": "game",
+  "year": 2013,
+  "wbid": 7,
+  "fsid": 8,
+  "rwid": 9,
+  "symd": 7,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-08",
+   "FS-18",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-TIM",
+   "SYM-REL",
+   "SYM-SAC"
+  ],
+  "wb": [
+   "WB-08",
+   "WB-19",
+   "WB-36"
+  ],
+  "lesson": "Use variable continuity to make earlier scenes re-readable; entropy across worlds needs a fixed anchor the audience can hold.",
+  "batch": 3
+ },
+ {
+  "title": "Spec Ops: The Line",
+  "medium": "game",
+  "year": 2012,
+  "wbid": 5,
+  "fsid": 6,
+  "rwid": 8,
+  "symd": 8,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-09",
+   "FS-12",
+   "FS-26"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-DTH",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-10",
+   "WB-20",
+   "WB-38"
+  ],
+  "lesson": "Withhold confirmation; let the player's own actions supply the entropy, so revision of the past is earned not narrated.",
+  "batch": 3
+ },
+ {
+  "title": "Undertale",
+  "medium": "game",
+  "year": 2015,
+  "wbid": 5,
+  "fsid": 7,
+  "rwid": 9,
+  "symd": 7,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-02",
+   "FS-11",
+   "FS-19"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-SAC",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-12",
+   "WB-22",
+   "WB-31"
+  ],
+  "lesson": "Make save-state persistence diegetic; a broken tech tree can include the player's own meta-capabilities as finite resources.",
+  "batch": 3
+ },
+ {
+  "title": "Deltarune",
+  "medium": "game",
+  "year": 2018,
+  "wbid": 6,
+  "fsid": 8,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "H",
+  "conf": "B",
+  "fs": [
+   "FS-05",
+   "FS-14",
+   "FS-23"
+  ],
+  "sym": [
+   "SYM-DSC",
+   "SYM-SLF",
+   "SYM-PRG"
+  ],
+  "wb": [
+   "WB-17",
+   "WB-24",
+   "WB-35"
+  ],
+  "lesson": "Split endings across installments deliberately; unresolved branches convert entropy into anticipation rather than incoherence.",
+  "batch": 3
+ },
+ {
+  "title": "OneShot",
+  "medium": "game",
+  "year": 2016,
+  "wbid": 5,
+  "fsid": 6,
+  "rwid": 7,
+  "symd": 7,
+  "comm": "M",
+  "conf": "B",
+  "fs": [
+   "FS-03",
+   "FS-16",
+   "FS-22"
+  ],
+  "sym": [
+   "SYM-LGT",
+   "SYM-MEM",
+   "SYM-SLF"
+  ],
+  "wb": [
+   "WB-23",
+   "WB-26",
+   "WB-37"
+  ],
+  "lesson": "Let the fiction acknowledge its own medium; entropy at universe scale lands when the boundary of the world is itself a mechanic.",
+  "batch": 3
+ },
+ {
+  "title": "The Hex",
+  "medium": "game",
+  "year": 2018,
+  "wbid": 4,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 6,
+  "comm": "L",
+  "conf": "B",
+  "fs": [
+   "FS-07",
+   "FS-13",
+   "FS-25"
+  ],
+  "sym": [
+   "SYM-DTH",
+   "SYM-NOI",
+   "SYM-MEM"
+  ],
+  "wb": [
+   "WB-29",
+   "WB-32",
+   "WB-39"
+  ],
+  "lesson": "Interlock six genres around one causal knot; a broken tech tree reads as fate when every discipline's failure feeds the next.",
+  "batch": 3
+ },
+ {
+  "title": "Inscryption",
+  "medium": "game",
+  "year": 2021,
+  "wbid": 6,
+  "fsid": 7,
+  "rwid": 8,
+  "symd": 7,
+  "comm": "H",
+  "conf": "A",
+  "fs": [
+   "FS-01",
+   "FS-10",
+   "FS-24"
+  ],
+  "sym": [
+   "SYM-SAC",
+   "SYM-CTL",
+   "SYM-DTH"
+  ],
+  "wb": [
+   "WB-40",
+   "WB-14",
+   "WB-21"
+  ],
+  "lesson": "Bury the ruleset inside the fiction; a tech tree broken on purpose rewards players who treat mechanics as archaeological evidence.",
+  "batch": 3
+ }
+]
