@@ -1294,6 +1294,20 @@ _DROP_DUP = [
 
 import re as _re
 
+# Author ruling SET5: "全直呼名字" => the kinship term 外婆 must not appear in
+# narrative content. (Policy/ruling documents are in _QUOTING and are skipped.)
+_KINSHIP = [("这个碗是你外婆的", "")]
+for _f in _glob.glob(f'{O}/*.md'):
+    if os.path.basename(_f).startswith(_QUOTING):
+        continue
+    _t = open(_f, encoding='utf-8').read()
+    _o = _t
+    for _a, _b in _KINSHIP:
+        _t = _t.replace(_a, _b)
+    if _t != _o:
+        open(_f, 'w', encoding='utf-8').write(_t)
+        print(f"  kinship pass: {os.path.basename(_f)}")
+
 # Records that QUOTE the original wording must not be rewritten.
 _QUOTING = ('08_', '09_', '10_', '13_', '14_')
 
