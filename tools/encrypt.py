@@ -64,7 +64,7 @@ PAGE = """<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>🔒 {title}</title>
+<title>🔒 {title} · Re：LU</title>
 <meta name="robots" content="noindex, nofollow">
 <style>
   :root {{ --bg:#0d0f12; --fg:#e8e6e1; --dim:#8b8f96; --line:#23272d; --accent:#c9a227; }}
@@ -101,7 +101,8 @@ PAGE = """<!DOCTYPE html>
 <body>
 <div class="wrap">
   <h1>🔒 {title}</h1>
-  <div class="sub">本页内容已加密。输入密码以解密。<br>
+  <div class="sub"><b>Re：LU</b> · 官方标题　　开发代号：String Theory<br>
+    本页内容已加密。输入密码以解密。<br>
     明文从未以未加密形式存储于本仓库。</div>
 
   <div id="gate" class="lock">
@@ -237,7 +238,7 @@ def build():
     idx = f"""<!DOCTYPE html>
 <html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>STRING THEORY · 设定文档（加密）</title>
+<title>Re：LU · 设定文档（加密）</title>
 <meta name="robots" content="noindex, nofollow">
 <style>
  body {{ margin:0; background:#0d0f12; color:#e8e6e1;
@@ -245,6 +246,10 @@ def build():
  .wrap {{ max-width:760px; margin:0 auto; padding:64px 24px 120px; }}
  h1 {{ font-size:22px; font-weight:600; margin:0 0 8px; }}
  .sub {{ color:#8b8f96; font-size:13px; margin-bottom:36px; }}
+ .namestat {{ margin:14px 0 36px; padding:14px 16px; border:1px solid #c9a22755;
+              border-radius:8px; background:#141310; color:#cfc7ae; font-size:13px;
+              line-height:1.7; }}
+ .namestat b {{ color:#c9a227; }}
  ul {{ list-style:none; padding:0; margin:0; }}
  li {{ display:flex; justify-content:space-between; align-items:baseline; gap:16px;
        padding:14px 0; border-bottom:1px solid #23272d; }}
@@ -254,7 +259,12 @@ def build():
  .note {{ margin-top:36px; padding-top:20px; border-top:1px solid #23272d;
           color:#8b8f96; font-size:13px; }}
 </style></head><body><div class="wrap">
-  <h1>STRING THEORY · 设定文档</h1>
+  <h1>Re：LU · 设定文档</h1>
+  <div class="namestat">
+    <b>官方标题：Re：LU</b>　·　主题歌：Zona Pellucida　·　开发代号：String Theory<br>
+    本目录的文档为<b>开发期材料</b>，题名沿用当时的代号 String Theory；
+    依命名规则<b>不回改历史文档</b>。
+  </div>
   <div class="sub">全部页面为 AES-256-GCM 客户端加密。明文不在本仓库中。</div>
   <ul>
 {rows}

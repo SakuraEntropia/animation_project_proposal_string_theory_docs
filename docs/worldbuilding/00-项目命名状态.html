@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>🔒 项目命名状态 · Re：LU</title>
+<meta name="robots" content="noindex, nofollow">
+<style>
+  :root { --bg:#0d0f12; --fg:#e8e6e1; --dim:#8b8f96; --line:#23272d; --accent:#c9a227; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg);
+         font:16px/1.75 -apple-system,"PingFang SC","Noto Sans CJK SC",system-ui,sans-serif; }
+  .wrap { max-width:820px; margin:0 auto; padding:56px 24px 120px; }
+  h1 { font-size:20px; font-weight:600; letter-spacing:.02em; margin:0 0 6px; }
+  .sub { color:var(--dim); font-size:13px; margin-bottom:32px; }
+  .lock { border:1px solid var(--line); border-radius:10px; padding:24px; background:#111418; }
+  label { display:block; font-size:13px; color:var(--dim); margin-bottom:8px; }
+  input { width:100%; padding:11px 13px; font-size:15px; color:var(--fg);
+           background:#0a0c0f; border:1px solid var(--line); border-radius:7px; outline:none; }
+  input:focus { border-color:var(--accent); }
+  button { margin-top:14px; width:100%; padding:11px; font-size:15px; cursor:pointer;
+            color:#0d0f12; background:var(--accent); border:0; border-radius:7px; font-weight:600; }
+  button:disabled { opacity:.5; cursor:progress; }
+  .msg { margin-top:14px; font-size:13px; min-height:20px; color:var(--dim); }
+  .msg.err { color:#e06c75; }
+  .meta { margin-top:26px; padding-top:18px; border-top:1px solid var(--line);
+           font-size:12px; color:var(--dim); }
+  .meta code { color:#9aa4b2; }
+  #doc { display:none; }
+  #doc.on { display:block; }
+  .dochead { display:flex; justify-content:space-between; align-items:center;
+              border-bottom:1px solid var(--line); padding-bottom:14px; margin-bottom:28px; }
+  .dochead .t { font-size:13px; color:var(--dim); }
+  .dochead button { width:auto; margin:0; padding:6px 12px; font-size:12px;
+                     background:transparent; color:var(--dim); border:1px solid var(--line); }
+  pre { white-space:pre-wrap; word-wrap:break-word; font:14px/1.85 ui-monospace,
+         SFMono-Regular,Menlo,monospace; color:#d7d3cc; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🔒 项目命名状态</h1>
+  <div class="sub"><b>Re：LU</b> · 官方标题　　开发代号：String Theory<br>
+    本页内容已加密。输入密码以解密。<br>
+    明文从未以未加密形式存储于本仓库。</div>
+
+  <div id="gate" class="lock">
+    <label for="pw">密码</label>
+    <input id="pw" type="password" autocomplete="current-password" autofocus>
+    <button id="go">解密</button>
+    <div id="msg" class="msg"></div>
+    <div class="meta">
+      AES-256-GCM · PBKDF2-SHA256 · 600000 iterations<br>
+      SHA-256(ciphertext) = <code>53df9fbcf71bdbc7701274127c1762df…</code>
+    </div>
+  </div>
+
+  <div id="doc">
+    <div class="dochead">
+      <span class="t">项目命名状态</span>
+      <button id="relock">重新锁定</button>
+    </div>
+    <pre id="body"></pre>
+  </div>
+</div>
+
+<script id="payload" type="application/json">{"salt":"OEkfziV6NVFVbnv9Y9DKnw==","iv":"Mrgc3DHT4IGtI3g+","ct":"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","iterations":600000,"sha256":"53df9fbcf71bdbc7701274127c1762df1440f4dbf93b3c99e0b9b55dfd06ce1f"}</script>
+<script>
+(function () {
+  const P = JSON.parse(document.getElementById('payload').textContent);
+  const $ = (id) => document.getElementById(id);
+
+  const b64 = (s) => {
+    const bin = atob(s), out = new Uint8Array(bin.length);
+    for (let i = 0; i < bin.length; i++) out[i] = bin.charCodeAt(i);
+    return out;
+  };
+
+  async function decrypt(pw) {
+    const enc = new TextEncoder();
+    const base = await crypto.subtle.importKey('raw', enc.encode(pw), 'PBKDF2', false, ['deriveKey']);
+    const key = await crypto.subtle.deriveKey(
+      { name: 'PBKDF2', salt: b64(P.salt), iterations: P.iterations, hash: 'SHA-256' },
+      base, { name: 'AES-GCM', length: 256 }, false, ['decrypt']);
+    const pt = await crypto.subtle.decrypt(
+      { name: 'AES-GCM', iv: b64(P.iv), tagLength: 128 }, key, b64(P.ct));
+    return new TextDecoder().decode(pt);
+  }
+
+  async function attempt() {
+    const pw = $('pw').value;
+    if (!pw) return;
+    $('go').disabled = true;
+    $('msg').className = 'msg';
+    $('msg').textContent = '正在派生密钥…（约 1 秒）';
+    try {
+      const text = await decrypt(pw);
+      $('body').textContent = text;
+      $('gate').style.display = 'none';
+      $('doc').classList.add('on');
+      document.title = "00_项目命名状态";
+      sessionStorage.setItem('st-pw', pw);
+    } catch (e) {
+      $('msg').className = 'msg err';
+      $('msg').textContent = '密码错误。';
+      $('pw').select();
+    } finally {
+      $('go').disabled = false;
+    }
+  }
+
+  $('go').addEventListener('click', attempt);
+  $('pw').addEventListener('keydown', (e) => { if (e.key === 'Enter') attempt(); });
+  $('relock').addEventListener('click', () => {
+    sessionStorage.removeItem('st-pw');
+    $('body').textContent = '';
+    $('pw').value = '';
+    $('doc').classList.remove('on');
+    $('gate').style.display = '';
+    $('msg').textContent = '';
+    document.title = "🔒 项目命名状态";
+  });
+
+  // Auto-unlock within the same tab session (sessionStorage only, never cookies).
+  const saved = sessionStorage.getItem('st-pw');
+  if (saved) { $('pw').value = saved; attempt(); }
+})();
+</script>
+</body>
+</html>
