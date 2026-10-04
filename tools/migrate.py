@@ -355,7 +355,7 @@ CONFLICT_DOC = """# 冲突与待定账（Conflicts & TBD Ledger）
 | 7 | 为什么造不出第二台测度仪 |
 | 8 | 其余几件"独立发明"是什么 |
 | 9 | 接力式主角与 `PIN-10` 怎么调和 |
-| 10 | **`Godereos` 的确切拼写**（作者本次写 `goderdos`，Brainstorm §16 写 `Godereos`） |
+| 10 | ★ **`Godereos` 的确切拼写** —— 作者本次写 `goderdos`，而 Brainstorm §16 的构词为 `Godereos`（**God** + **eos**，Gödel + God + Erdős）。全库已统一为 `Godereos`（456 处），**待作者确认最终拼写** |
 
 ### 2.3 承重待定（影响结构，优先级最高）
 
